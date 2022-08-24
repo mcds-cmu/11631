@@ -1,6 +1,6 @@
 ---
 layout: f22
-title: Blog
+title: MCDS Blog
 nav_order: 10
 ---
 

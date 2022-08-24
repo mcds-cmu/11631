@@ -7,7 +7,7 @@ has_toc: false
 permalink: f22/index.html
 ---
 
-# 11-637: Foundations of Computational Data Science
+# 11-631: Data Science Seminar
 
 ## Fall 2022
 
