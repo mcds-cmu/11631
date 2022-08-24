@@ -1,4 +1,4 @@
-### Teaching Staff
+### Instructors
 {% assign staffers = site.staffers | where_exp: "staffer", "staffer.staff_for contains include.course_version" %}
 
 {% assign instructors = staffers | where: 'role', 'Instructor' | sort:"list_order" %}

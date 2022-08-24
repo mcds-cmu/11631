@@ -1,8 +1,8 @@
 ---
-title: Teaching Staff
+title: Instructors
 nav_order: 1
 parent: Who We Are
 grand_parent: Home
 is_anchor_child: true
-anchor_url: teaching-staff
+anchor_url: instructors
 ---
