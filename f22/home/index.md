@@ -13,13 +13,13 @@ permalink: f22/index.html
 
 ## Fall 2022
 
-### Course Learing Outcomes
+### Course Learning Outcomes
 
-{% include syllabus/course_description.md %}
+{% include syllabus/learning_outcomes.md %}
 
 ### Course Format
 
-{% include syllabus/course_goals.md %}
+{% include syllabus/course_format.md %}
 
 ## Who We Are
 
