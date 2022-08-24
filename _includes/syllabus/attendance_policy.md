@@ -1,0 +1,1 @@
+This course will be held in person. You are responsible for completing the work assigned and seeking clarification as needed. Late work is generally not accepted without prior arrangement or proper justification.

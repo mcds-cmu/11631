@@ -1,6 +1,6 @@
 ---
 title: Learning Outcomes
-nav_order: 4
+nav_order: 1
 parent: Syllabus
 is_anchor_child: true
 anchor_url: learning-outcomes

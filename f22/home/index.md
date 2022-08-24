@@ -2,8 +2,6 @@
 layout: f22
 title: Home
 nav_order: 1
-description: >-
-    Course information for 11631 - Data Science Seminar
 has_children: true
 has_toc: false
 permalink: f22/index.html
