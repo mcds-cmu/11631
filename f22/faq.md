@@ -7,7 +7,9 @@ description: FAQ for the 11631 course.
 
 # FAQ
 
-# For Current Students
+To be updated...
+
+<!-- # For Current Students
 
 ## Quiz
 
@@ -154,4 +156,4 @@ A: For current and incoming CMU students, please register using the [Student Inf
 Q: I am on the waiting list. What should I do?
 {: .fw-700 }
 
-A: We periodically admit students from the waiting list to the course roster if space allows. If you have a special or urgent request, please Contact Us.
+A: We periodically admit students from the waiting list to the course roster if space allows. If you have a special or urgent request, please Contact Us. -->
