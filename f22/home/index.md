@@ -2,24 +2,22 @@
 layout: f22
 title: Home
 nav_order: 1
-description: >-
-    Course information for 11631 - Data Science Seminar
 has_children: true
 has_toc: false
 permalink: f22/index.html
 ---
 
-# 11-637: Foundations of Computational Data Science
+# 11-631: Data Science Seminar
 
 ## Fall 2022
 
-### Course Learing Outcomes
+### Course Learning Outcomes
 
-{% include syllabus/course_description.md %}
+{% include syllabus/learning_outcomes.md %}
 
 ### Course Format
 
-{% include syllabus/course_goals.md %}
+{% include syllabus/course_format.md %}
 
 ## Who We Are
 

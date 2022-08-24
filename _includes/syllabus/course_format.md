@@ -1,0 +1,1 @@
+In-Person. The course opens with an initial overview of the Data Science literature and tutorials on how to analyze and critique Data Science publications. The course also provides tutorials on preparing and presenting reviews of Data Science publications and related literature.

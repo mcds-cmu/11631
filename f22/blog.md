@@ -1,7 +1,7 @@
 ---
 layout: f22
-title: Blog
-nav_order: 10
+title: MCDS Blog
+nav_order: 9
 ---
 
 # Under Construction...
