@@ -1,7 +1,7 @@
 ---
 layout: f22
 title: FAQ
-nav_order: 9
+nav_order: 8
 description: FAQ for the 11631 course.
 ---
 

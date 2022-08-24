@@ -1,7 +1,7 @@
 ---
 layout: f22
 title: Resources
-nav_order: 6
+nav_order: 7
 description: >-
     Resources for 11631 -  Foundations of Computational Data Science.
 ---

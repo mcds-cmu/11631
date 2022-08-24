@@ -1,7 +1,7 @@
 ---
 layout: f22
 title: Schedule
-nav_order: 4
+nav_order: 3
 description: >-
     Calendar for 11631 -  Foundations of Computational Data Science.
 ---

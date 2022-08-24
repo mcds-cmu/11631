@@ -1,7 +1,7 @@
 ---
 layout: f22
 title: Links
-nav_order: 8
+nav_order: 6
 description: >-
     Links for 11631 -  Foundations of Computational Data Science.
 ---
