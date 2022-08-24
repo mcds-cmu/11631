@@ -10,8 +10,6 @@ has_toc: false
 
 ## Fall 2022
 
-Version August 24, 2022
-
 ## Course Learning Outcomes
 
 {% include syllabus/learning_outcomes.md %}
