@@ -12,8 +12,6 @@ has_toc: false
 
 {% include syllabus/learning_outcomes.md %}
 
-{% include staff.md %}
-
 ## Time & Location
 
 Section A: TR 8:35 am - 9:55 am, POS 153
