@@ -29,7 +29,7 @@ Section B: TR 11:50 am - 1:10 pm, POS 153
 
 ## Course Organization
 
-{% include syllabus/course_organization.md %}
+{% include syllabus/course_organization/course_organization.md %}
 
 ## Attendance Policy
 
