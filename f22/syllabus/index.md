@@ -8,8 +8,6 @@ has_toc: false
 
 # 11-631:  Data Science Seminar - Syllabus
 
-## Fall 2022
-
 ## Course Learning Outcomes
 
 {% include syllabus/learning_outcomes.md %}
@@ -19,6 +17,7 @@ has_toc: false
 ## Time & Location
 
 Section A: TR 8:35 am - 9:55 am, POS 153
+
 Section B: TR 11:50 am - 1:10 pm, POS 153
 
 ## Course Format
