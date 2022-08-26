@@ -14,12 +14,12 @@
     <tr>
       <td rowspan=14 style="text-align: center">Introduction to the Course</td>
       <td style="text-align: center">Aug 30</td>
-      <td style="text-align: center">Landscape of DS; tutorials on paper reading/reviewing; primer(s) on ethics evaluation, experimental design &amp; results evaluation; data curation; examples of best practices from real papers. Invite guest speakers.</td>
+      <td style="text-align: center">Course Introduction</td>
       <td style="text-align: center">- Read syllabus</td>
     </tr>
     <tr>
       <td style="text-align: center">Sep 1</td>
-      <td style="text-align: center">8 roles in the presentation process and demonstration on a paper.</td>
+      <td style="text-align: center">Tutorials:<br />- How to read a technical/research paper<br />- Roleplaying in reading papers<br</td>
       <td style="text-align: center">- Role selection ranking due midnight<br />- Week 2 presenters announced Friday (Sep 2)</td>
     </tr>
     <tr>
