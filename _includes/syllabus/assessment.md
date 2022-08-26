@@ -7,6 +7,7 @@ The course grade will be based on the following:
 - Practice literature survey (a related work survey of surprise paper session III): 5%
 - Literature survey (choose a topic covered in the course and write a literature survey of the chosen topic): 20%
 - Capstone report survey (provide constructive feedback to an 11-632 team capstone report): 5%
+- Reproducibility challenge (bonus 5% for participating in the reproducibility challenge): 5%
 - End-of-course survey (bonus 2% for completing the course survey for feedback and improvement): 2%
 
 |          **Assessment Type**          | **Grade Percentage** |
@@ -18,5 +19,6 @@ The course grade will be based on the following:
 |       Practice Literature Survey      |           5          |
 |           Literature Survey           |          20          |
 |         Capstone Report Review        |           5          |
+|       Reproducibility Challenge       |           5          |
 |          End-of-course Survey         |           2          |
-|                 TOTAL                 |          102         |
+|                 TOTAL                 |          107         |
