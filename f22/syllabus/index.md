@@ -16,7 +16,7 @@ has_toc: false
 
 Section A: TR 8:35 am - 9:55 am, POS 153
 
-Section B: TR 11:50 am - 1:10 pm, POS 153
+Section B: TR 11:50 am - 1:10 pm, DH 2315
 
 ## Course Format
 
