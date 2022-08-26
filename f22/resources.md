@@ -11,7 +11,10 @@ description: >-
 ## Tutorials: A How-To for Each Course Deliverable
 
 Weekly Paper Summaries
+
 Surprise Paper Summaries
+
 Capstone Report Review
+
 Related Work/Literature Survey
 
