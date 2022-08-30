@@ -71,6 +71,7 @@ General guidance to creating a good literature review:
           <li>Is it relevant to my research? If yes, then why is it relevant?</li>
           <li>What is original about the methodology used by the author?</li>
         </ol>
+        </li>
     </ol>
 </ol>
 
