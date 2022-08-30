@@ -25,7 +25,7 @@
   <tr>
     <td class="tg-0lax" rowspan="2">2</td>
     <td class="tg-0lax">Sep 6</td>
-    <td class="tg-0lax" rowspan="2">[Required Reading: Frankle, J., &amp; Carbin, M. (2018). The lottery ticket hypothesis: Finding sparse, trainable neural networks. arXiv preprint arXiv:1803.03635.](https://arxiv.org/pdf/1803.03635.pdf)<br>Background Readings:<br>Optional Readings:</td>
+    <td class="tg-0lax" rowspan="2">Required Reading: <a href="https://arxiv.org/pdf/1803.03635.pdf">Frankle, J., &amp; Carbin, M. (2018). The lottery ticket hypothesis: Finding sparse, trainable neural networks. arXiv preprint arXiv:1803.03635.</a><br>Background Readings:<br>Optional Readings:</td>
     <td class="tg-0lax">Presentation slides due midnight Monday (for presenting team)<br>Paper summary + a discussion question for the team due midnight Monday (for non-presenting students)<br>Group presentation and discussion</td>
   </tr>
   <tr>
