@@ -72,7 +72,6 @@ General guidance to creating a good literature review:
           <li>What is original about the methodology used by the author?</li>
         </ol>
     </ol>
-  </ol>
 </ol>
 
 ## Researcher
