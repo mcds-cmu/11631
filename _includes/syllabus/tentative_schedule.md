@@ -147,12 +147,12 @@
   <tr>
     <td class="tg-0lax" rowspan="2">14</td>
     <td class="tg-0lax">Nov 29</td>
-    <td class="tg-0lax">Guest Speaker?</td>
+    <td class="tg-0lax">Guest Speaker</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Dec 1</td>
-    <td class="tg-0lax">Guest Speaker?</td>
+    <td class="tg-0lax">Guest Speaker</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
