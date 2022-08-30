@@ -117,6 +117,7 @@ General guidance to creating a good literature review:
     <ul>
       <li>Discuss, in general, how your proposed experiment would lead to a significant improvement over the original studies and how it would benefit the field. (In other words, why should someone care? If you were applying for money to do this, why would someone fund you? If you wanted to publish your results, why would they be interesting?)</li>
     </ul>
+    </li>
  <li>References:</li>
     <ul>
       <li>Cite all resources you referred to for your experiment.</li>
@@ -227,5 +228,6 @@ It is your job to investigate and assess the social impact of the research. You 
     <li>Consider how the technology proposed in the paper interacts with future technology from other domains, and contemplate the impact of this interaction.</li>
     <li>Be creative but reasonable with your assumptions about possible future advancements that could lead to social impact in one way or the other.</li>
     </ol>
+    </li>
   </ol>
 </ol>
