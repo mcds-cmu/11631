@@ -72,8 +72,6 @@ General guidance to creating a good literature review:
           <li>What is original about the methodology used by the author?</li>
         </ol>
     </ol>
-  </li>
-</ol>
 
 
 ## Researcher
@@ -223,9 +221,10 @@ It is your job to investigate and assess the social impact of the research. You 
     <li>Discuss complementary technologies that may mitigate any negative impacts.</li>
   </ol>
   <li>Consider possible future impacts:</li>
-  <ol>
-  <li>Consider how the technology proposed in the paper may lead to future advancements and what would be the social impact of such advancements.</li>
-  <li>Consider how the technology proposed in the paper interacts with future technology from other domains, and contemplate the impact of this interaction.</li>
-  <li>Be creative but reasonable with your assumptions about possible future advancements that could lead to social impact in one way or the other.</li>
- </ol>
+    <ol>
+    <li>Consider how the technology proposed in the paper may lead to future advancements and what would be the social impact of such advancements.</li>
+    <li>Consider how the technology proposed in the paper interacts with future technology from other domains, and contemplate the impact of this interaction.</li>
+    <li>Be creative but reasonable with your assumptions about possible future advancements that could lead to social impact in one way or the other.</li>
+    </ol>
+  </ol>
 </ol>
