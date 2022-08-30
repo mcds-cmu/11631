@@ -59,7 +59,6 @@ General guidance to creating a good literature review:
       <li>Make a preliminary list of statistical literature that is relevant to your research topic. Discuss within the team to identify the older paper that influences the current paper and a newer paper that cites your current paper. You can also keep multiple papers handy in order to identify the best 2 papers that fit the above criteria.</li>
       <li>Now you have to ‘procure’ (get copies of) the literature on the list. How much time this takes can vary greatly. Some books and journals may be available from your library or from the internet. You can get in touch with the professors if you cannot find the journal you’re looking for.</li>
     </ol>
-    </li>
   <li>Reading the literature:</li>
     <ol>
       <li>Once you have a preliminary list of references, you now have to read this material. This process is ‘time-consuming’ (takes a lot of time) because you may have to read a large amount of statistical research depending on how many papers you select.</li>
@@ -92,7 +91,6 @@ General guidance to creating a good literature review:
       <li>Discuss several critical studies that have already been done in this area.</li>
       <li>Point out why these background studies are insufficient and how your project solves the problem (the reviewer can help point out flaws within the study).</li>
     </ol>
-    </li>
   <li>Method and Design (The methodology assumes participants in a study, but you can change it depending on your methodology):</li>
     <ol>
       <li>Method:</li>
@@ -123,7 +121,6 @@ General guidance to creating a good literature review:
     <ul>
       <li>Cite all resources you referred to for your experiment.</li>
     </ul>
-    </li>
 </ol>
 
 
