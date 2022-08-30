@@ -86,7 +86,6 @@ General guidance to creating a good literature review:
       <li>Explain the issue you are trying to solve through your project.</li>
       <li>Explain how the paper has guided your motivation to create the project.</li>
     </ol>
-    </li>
   <li>Background:</li>
     <ol>
       <li>Summarize what is already known about the field. Include a summary of the basic background information on the topic gleaned from your literature review (content written by archaeologists could help).</li>
@@ -124,6 +123,7 @@ General guidance to creating a good literature review:
     <ul>
       <li>Cite all resources you referred to for your experiment.</li>
     </ul>
+    </li>
 </ol>
 
 
