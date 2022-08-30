@@ -11,39 +11,41 @@ Each student in a team is assigned a role to play to critique a paper. Each role
 | Private Investigator   | Find out background information on one of the paper’s authors. Where have they worked? What did they study? What previous projects might have led to working on this one? What do you think motivated them to work on this project? Feel free to contact the authors, but remember to be courteous, polite, and on-topic.                                                                                                   | You should be an expert sleuth! You should be familiar with how to find out about a person’s research and educational background.                                                                                                                                                                                                                  |
 | Social Impact Assessor | Identify how this paper self-assessed its (likely positive) impact on the world. Have any additional positive social impacts been left out? What are possible negative social impacts that were overlooked or omitted? What has been the impact (good or bad) of this paper on the economy, society, and/or the environment?                                                                                                | This role is suitable for all members, even ones with less experience. Please go through https://perma.cc/K22T-5DFU to see how developments in Computer Science that are usually framed as having a positive social impact can, in turn, lead to negative impacts that are not discussed and how to conduct a peer review assessing these impacts. |
 
-**Presenter**
+## Presenter
 
 ![Presenter](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/teacher-light-skin-tone_1f9d1-1f3fb-200d-1f3eb.png)
 
 The role of the presenter is to clearly communicate the main ideas of the research paper. Think of this as a visual version of your paper. You would need to create the main presentation, describing the motivation, problem definition, method, and experimental findings of this paper. Keep your presentation between 10-15 mins.
 
 Divide your presentation into the following sections (Can use the following as a guide to creating effective presentations):
-
-- Introduction/Overview/Hook: Focus on the motivation behind the research. Why is it necessary to solve the problem addressed in the research? Relevance of the problem with respect to the time in which the paper was written. How does the problem fit into the larger picture? What are its applications? What makes the problem nontrivial?
-- Theoretical Framework/Research Question: Here, you should focus on defining your problem statement. Make sure you do not state the problem as is from your research paper. Simplify the problem statement as per your understanding. No matter how difficult and technical the problem is; it can usually be described succinctly and accurately in less than five minutes. If the audience doesn’t understand the problem being attacked, then they won’t understand the rest of your talk.
-- Background/Literature Review: Discuss the previous work done in the field and explain how your paper is different from all the research done in the past.
-- Methodology/Case Selection: Here, you talk about any kind of experimentation conducted to get some results. Try using visuals or flowcharts if possible to make the methodology easier to explain. Avoid adding too many complex tables. If your experiment involves a physical setup, you can try to include digital photos to understand the setup better.
-- Discussion of Data/Results/Analysis: Start by discussing key results. Try to avoid too much jargon. Focus on any unexpected results and explain the reasoning or significance behind them. If possible, try to include conclusions at the bottom of each result slide to give a better understanding of why the result is important.
-- Conclusion: Use key takeaways from the previous slides and combine them to form a coherent synopsis. Be honest and open about any uncertainties or areas of improvement in the research. This may also help avoid any antagonistic questions later.
+<ol>
+<li>Introduction/Overview/Hook: Focus on the motivation behind the research. Why is it necessary to solve the problem addressed in the research? Relevance of the problem with respect to the time in which the paper was written. How does the problem fit into the larger picture? What are its applications? What makes the problem nontrivial?</li>
+<li>Theoretical Framework/Research Question: Here, you should focus on defining your problem statement. Make sure you do not state the problem as is from your research paper. Simplify the problem statement as per your understanding. No matter how difficult and technical the problem is; it can usually be described succinctly and accurately in less than five minutes. If the audience doesn’t understand the problem being attacked, then they won’t understand the rest of your talk.</li>
+<li>Background/Literature Review: Discuss the previous work done in the field and explain how your paper is different from all the research done in the past.</li>
+<li>Methodology/Case Selection: Here, you talk about any kind of experimentation conducted to get some results. Try using visuals or flowcharts if possible to make the methodology easier to explain. Avoid adding too many complex tables. If your experiment involves a physical setup, you can try to include digital photos to understand the setup better.</li>
+<li>Discussion of Data/Results/Analysis: Start by discussing key results. Try to avoid too much jargon. Focus on any unexpected results and explain the reasoning or significance behind them. If possible, try to include conclusions at the bottom of each result slide to give a better understanding of why the result is important.</li>
+<li>Conclusion: Use key takeaways from the previous slides and combine them to form a coherent synopsis. Be honest and open about any uncertainties or areas of improvement in the research. This may also help avoid any antagonistic questions later.</li>
+</ol>
 
 Basic tips for effective presentations:
+<ol>
+<li>Don’t just read your presentation. Engage with the audience as much as possible.</li>
+<li>Avoid long full sentences or making your slides too wordy.</li>
+<li>Use more images to explain your processes better.</li>
+<li>Use minimum jargon.</li>
+<li>You can use humor/memes to keep the audience’s attention but do not make humor the major focus of your presentation.</li>
+<li>Maintain Eye contact with your audience.</li>
+<li>Speak clearly and with sufficient volume.</li>
+<li>Make sure you use large fonts and clear contrasts to make your slides readable from afar.</li>
+</ol>
 
-- Don’t just read your presentation. Engage with the audience as much as possible.
-- Avoid long full sentences or making your slides too wordy.
-- Use more images to explain your processes better.
-- Use minimum jargon.
-- You can use humor/memes to keep the audience’s attention but do not make humor the major focus of your presentation.
-- Maintain Eye contact with your audience.
-- Speak clearly and with sufficient volume.
-- Make sure you use large fonts and clear contrasts to make your slides readable from afar.
-
-**Reviewer**
+## Reviewer
 
 ![Reviewer](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/woman-scientist-dark-skin-tone_1f469-1f3ff-200d-1f52c.png)
 
 Complete a full critical but not necessarily a negative review of the paper. Follow the guidelines for [NeurIPS reviewers (under "Review Content")](https://nips.cc/Conferences/2020/PaperInformation/ReviewerGuidelines), taking note of the example reviews included therein. In particular, please answer questions 1 to 10 under "Review Content,” including assigning an overall score. Read the Neurips reviewer guidelines for detailed instructions.
 
-**Archaeologist**
+## Archaeologist
 
 ![Archaeologist](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/man-farmer-medium-light-skin-tone_1f468-1f3fc-200d-1f33e.png)
 
@@ -73,7 +75,7 @@ General guidance to creating a good literature review:
   </li>
 </ol>
 
-**Researcher**
+## Researcher
 
 ![Researcher](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/woman-student-light-skin-tone_1f469-1f3fb-200d-1f393.png)
 
@@ -122,7 +124,7 @@ General guidance to creating a good literature review:
   </ol>
 </ol>
 
-**Industry Expert**
+## Industry Expert
 
 ![Industry Expert](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/man-office-worker-medium-dark-skin-tone_1f468-1f3fe-200d-1f4bc.png)
 
@@ -162,7 +164,7 @@ You must discuss how the method discussed in the paper can apply to one real-wor
    </ol>
 </ol>
 
-**Hacker**
+## Hacker
 
 ![Hacker](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/woman-technologist-medium-dark-skin-tone_1f469-1f3fe-200d-1f4bb.png)
 
@@ -176,7 +178,7 @@ Another example would be while coding a deep learning paper, focusing on the mai
 
 Please make it clear as to which part of the paper you have identified to code. Explain why you believe this to be the main focus of interest in the paper. Explain how you went about implementing this part of the paper. In your code, identify which parts of the code you have written yourself and which you have not.
 
-**Private Investigator**
+## Private Investigator
 
 ![PI](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/woman-detective-medium-light-skin-tone_1f575-1f3fc-200d-2640-fe0f.png)
 
@@ -197,7 +199,7 @@ You are required to visit a wide variety of websites and sources to collect this
 
 After doing so, you must be able to articulate what makes the author qualified to write this paper and why their research is credible or make a case against it. 
 
-**Social Impact Assessor**
+## Social Impact Assessor
 
 ![Social Impact Assessor](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/woman-judge-dark-skin-tone_1f469-1f3ff-200d-2696-fe0f.png)
 
