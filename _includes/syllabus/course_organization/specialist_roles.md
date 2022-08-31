@@ -216,7 +216,6 @@ It is your job to investigate and assess the social impact of the research. You 
     <li>Identify the paper’s self-assessed impact on this world.</li>
     <li>Determine if this self-assessment is reasonable or not.</li>
   </ol>
-  </li>
   <li>Peer-Review:</li>
   <ol>
     <li>Conduct a peer review of the broader social impacts of the paper that may not have been considered by the authors.</li>
@@ -226,7 +225,6 @@ It is your job to investigate and assess the social impact of the research. You 
     <li>Consider the impact (good or bad) of this paper on the economy, society, and/or the environment.</li>
     <li>Discuss complementary technologies that may mitigate any negative impacts.</li>
   </ol>
-  </li>
   <li>Consider possible future impacts:</li>
     <ol>
     <li>Consider how the technology proposed in the paper may lead to future advancements and what would be the social impact of such advancements.</li>
@@ -236,6 +234,7 @@ It is your job to investigate and assess the social impact of the research. You 
 </ol>
 
 ### References
+
 
 [Alec Jacobson and Colin Raffel, 2021. Role-Playing Paper-Reading Seminars.](https://colinraffel.com/blog/role-playing-seminar.html)
 
