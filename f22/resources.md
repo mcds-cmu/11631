@@ -10,11 +10,5 @@ description: >-
 
 ## Tutorials: A How-To for Each Course Deliverable
 
-Weekly Paper Summaries
-
-Surprise Paper Summaries
-
-Capstone Report Review
-
-Related Work/Literature Survey
+[Paper Summary Tutorial (Spring 2021) Video](https://www.youtube.com/watch?v=w8dWd_p6flw)
 
