@@ -79,6 +79,10 @@ General guidance to creating a good literature review:
 
 ![Researcher](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/woman-student-light-skin-tone_1f469-1f3fb-200d-1f393.png)
 
+This is where you can get your creative juices flowing. Propose an imaginary follow-up project -- not just based on the current but only possible due to the existence and success of the current paper.
+
+Guidance of format to be used for project proposal:
+
 <ol>
   <li>Introduction/Problem Statement:</li>
     <ol>
@@ -228,3 +232,14 @@ It is your job to investigate and assess the social impact of the research. You 
     <li>Be creative but reasonable with your assumptions about possible future advancements that could lead to social impact in one way or the other.</li>
     </ol>
 </ol>
+
+### References
+
+[Alec Jacobson and Colin Raffel, 2021. Role-Playing Paper-Reading Seminars.](https://colinraffel.com/blog/role-playing-seminar.html)
+[Bob Spillman and Ian Parberry, 2000. How to Present a Paper: A Speaker’s Guide.](https://www.sfu.ca/~jeffpell/Ling480/ParberryMembrane.pdf )
+[Lynn Santelmann, 2001. Outline for Research Project Proposal.](https://web.pdx.edu/~dbls/proposals.html)
+[Purdue University. Writing a Literature Review.](https://owl.purdue.edu/owl/research_and_citation/conducting_research/writing_a_literature_review.html)
+[Tanya Golash-Boza, 2022. 6 Tips for Giving a Fabulous Academic Presentation.](https://www.wiley.com/network/researchers/promoting-your-article/6-tips-for-giving-a-fabulous-academic-presentation)
+
+
+
