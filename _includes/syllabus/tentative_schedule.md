@@ -25,7 +25,7 @@
   <tr>
     <td class="tg-0lax" rowspan="2">2</td>
     <td class="tg-0lax">Sep 6</td>
-    <td class="tg-0lax" rowspan="2">Required Reading: <a href="https://arxiv.org/pdf/1803.03635.pdf">Frankle, J., &amp; Carbin, M. (2018). The lottery ticket hypothesis: Finding sparse, trainable neural networks. arXiv preprint arXiv:1803.03635.</a><br>Background Readings:<br>Optional Readings:</td>
+    <td class="tg-0lax" rowspan="2">Required Reading: <a href="https://arxiv.org/pdf/1803.03635.pdf">Frankle, J., &amp; Carbin, M. (2018). The lottery ticket hypothesis: Finding sparse, trainable neural networks. arXiv preprint arXiv:1803.03635.</a></td>
     <td class="tg-0lax">Presentation slides due midnight Monday (for presenting team)<br>Paper summary + a discussion question for the team due midnight Monday (for non-presenting students)<br>Group presentation and discussion</td>
   </tr>
   <tr>
@@ -35,7 +35,7 @@
   <tr>
     <td class="tg-0lax" rowspan="2">3</td>
     <td class="tg-0lax">Sep 13</td>
-    <td class="tg-0lax" rowspan="2">Required Reading: <a href="https://arxiv.org/pdf/1707.09457.pdf">Zhao, Jieyu, Tianlu Wang, Mark Yatskar, Vicente Ordonez, and Kai-Wei Chang. (2017). "Men also like shopping: Reducing gender bias amplification using corpus-level constraints." arXiv preprint arXiv:1707.09457.</a><br>Background Readings:<br>Optional Readings:</td>
+    <td class="tg-0lax" rowspan="2">Required Reading: <a href="https://arxiv.org/pdf/1707.09457.pdf">Zhao, Jieyu, Tianlu Wang, Mark Yatskar, Vicente Ordonez, and Kai-Wei Chang. (2017). "Men also like shopping: Reducing gender bias amplification using corpus-level constraints." arXiv preprint arXiv:1707.09457.</a></td>
     <td class="tg-0lax">Presentation slides due midnight Monday (for presenting team)<br>Paper summary + a discussion question for the team due midnight Monday (for non-presenting students)<br>Group presentation and discussion</td>
   </tr>
   <tr>
@@ -45,7 +45,7 @@
   <tr>
     <td class="tg-0lax" rowspan="2">4</td>
     <td class="tg-0lax">Sep 20</td>
-    <td class="tg-0lax" rowspan="2">Required Reading: <a href="https://arxiv.org/pdf/1806.00692.pdf">Aakanksha Naik*, Abhilasha Ravichander, Norman Sadeh, Carolyn Rose, Graham Neubig. "Stress Test Evaluation for Natural Language Inference." 27th International Conference on Computational Linguistics (COLING-2018)</a><br>Background Readings:<br>Optional Readings:</td>
+    <td class="tg-0lax" rowspan="2">Required Reading: <a href="https://arxiv.org/pdf/1806.00692.pdf">Aakanksha Naik*, Abhilasha Ravichander, Norman Sadeh, Carolyn Rose, Graham Neubig. "Stress Test Evaluation for Natural Language Inference." 27th International Conference on Computational Linguistics (COLING-2018)</a></td>
     <td class="tg-0lax">Presentation slides due midnight Monday (for presenting team)<br>Paper summary + a discussion question for the team due midnight Monday (for non-presenting students)<br>Group presentation and discussion</td>
   </tr>
   <tr>
@@ -55,7 +55,7 @@
   <tr>
     <td class="tg-0lax" rowspan="2">5</td>
     <td class="tg-0lax">Sep 27</td>
-    <td class="tg-0lax" rowspan="2">Required Reading:<br>Background Readings:<br>Optional Readings:</td>
+    <td class="tg-0lax" rowspan="2">Required Reading:</td>
     <td class="tg-0lax">Presentation slides due midnight Monday (for presenting team)<br>Paper summary + a discussion question for the team due midnight Monday (for non-presenting students)<br>Group presentation and discussion</td>
   </tr>
   <tr>
@@ -65,7 +65,7 @@
   <tr>
     <td class="tg-0lax" rowspan="2">6</td>
     <td class="tg-0lax">Oct 4</td>
-    <td class="tg-0lax" rowspan="2">Required Reading:<br>Background Readings:<br>Optional Readings:</td>
+    <td class="tg-0lax" rowspan="2">Required Reading:</td>
     <td class="tg-0lax">Presentation slides due midnight Monday (for presenting team)<br>Paper summary + a discussion question for the team due midnight Monday (for non-presenting students)<br>Group presentation and discussion</td>
   </tr>
   <tr>
@@ -75,7 +75,7 @@
   <tr>
     <td class="tg-0lax" rowspan="2">7</td>
     <td class="tg-0lax">Oct 11</td>
-    <td class="tg-0lax" rowspan="2">Required Reading:<br>Background Readings:<br>Optional Readings:</td>
+    <td class="tg-0lax" rowspan="2">Required Reading:</td>
     <td class="tg-0lax">Presentation slides due midnight Monday (for presenting team)<br>Paper summary + a discussion question for the team due midnight Monday (for non-presenting students)<br>Group presentation and discussion</td>
   </tr>
   <tr>
@@ -93,7 +93,7 @@
   <tr>
     <td class="tg-0lax" rowspan="2">9</td>
     <td class="tg-0lax">Oct 25</td>
-    <td class="tg-0lax" rowspan="2">Required Reading:<br>Background Readings:<br>Optional Readings:</td>
+    <td class="tg-0lax" rowspan="2">Required Reading:</td>
     <td class="tg-0lax">Presentation slides due midnight Monday (for presenting team)<br>Paper summary + a discussion question for the team due midnight Monday (for non-presenting students)<br>Group presentation and discussion</td>
   </tr>
   <tr>
