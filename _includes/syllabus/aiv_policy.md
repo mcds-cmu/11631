@@ -2,4 +2,4 @@ For preparing each presentation, you share work with your assigned teammates and
 
 For your paper summaries and comparative analyses, you must produce your own work. You may discuss the papers with classmates, but the submissions must be your own work. Do not use the internet or other sources to find prior analyses to complete your assignments.
 
-The presentation and related work survey emphasize a literature search and compare/contrast to other material. All material you find and use in your presentation and survey must be explicitly and correctly referenced/cited.
+The presentation and related work survey emphasize a literature search and compare/contrast to other material. All material you find and use in any of the course deliverables must be explicitly and correctly referenced/cited.
