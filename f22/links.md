@@ -21,3 +21,4 @@ Counseling and Psychological Services (CaPS): [https://www.cmu.edu/counseling/](
 School of Computer Science: [https://www.cs.cmu.edu](https://www.cs.cmu.edu) <br />
 Language Technologies Institute: [https://www.lti.cs.cmu.edu](https://www.lti.cs.cmu.edu) <br />
 Master of Computational Data Science: [https://mcds.cs.cmu.edu](https://mcds.cs.cmu.edu)
+Eberly Center Student Success Center: [https://www.cmu.edu/student-success/other-resources/handouts/index.html](https://www.cmu.edu/student-success/other-resources/handouts/index.html)
