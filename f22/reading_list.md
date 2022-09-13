@@ -28,5 +28,20 @@ nav_order: 4
     <td class="tg-cly1"></td>
     <td class="tg-0lax"></td>
   </tr>
+  <tr>
+    <td class="tg-0lax"><a href="https://arxiv.org/abs/1812.05239">Ken Holstein, Jennifer Wortman Vaughan, Hal Daumé III, Miro Dudík, Hanna Wallach, Improving fairness in machine learning systems: What do industry practitioners need?, in Proceedings of 2019 ACM CHI Conference on Human Factors in Computing Systems.</a></td>
+    <td class="tg-cly1"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><a href="https://jmlr.org/papers/volume21/20-312/20-312.pdf">Peter Henderson, Jieru Hu, Joshua Romoff, Emma Brunskill, Dan Jurafsky, Joelle Pineau. Towards the Systematic Reporting of the Energy and Carbon Footprints of Machine Learning, JMLR 2020.</a></td>
+    <td class="tg-cly1"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><a href="https://openreview.net/pdf?id=GKTvAcb12b">Emily M. Bender and Alexander Koller, Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data, Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 5185–5198.</a></td>
+    <td class="tg-cly1"></td>
+    <td class="tg-0lax"></td>
+  </tr>
 </tbody>
 </table>
