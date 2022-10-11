@@ -93,7 +93,7 @@
   <tr>
     <td class="tg-0lax" rowspan="2">9</td>
     <td class="tg-0lax">Oct 25</td>
-    <td class="tg-0lax" rowspan="2">Required Reading:</td>
+    <td class="tg-0lax" rowspan="2">Required Reading: <a href="https://proceedings.mlsys.org/paper/2022/file/077e29b11be80ab57e1a2ecabb7da330-Paper.pdf">Kuchnik, M., Klimovic, A., Simsa, J., Smith, V., & Amvrosiadis, G. (2022). Plumber: Diagnosing and Removing Performance Bottlenecks in Machine Learning Data Pipelines. Proceedings of Machine Learning and Systems, 4, 33-51.</a></td>
     <td class="tg-0lax">Presentation slides due midnight Monday (for presenting team)<br>Paper summary + a discussion question for the team due midnight Monday (for non-presenting students)<br>Group presentation and discussion</td>
   </tr>
   <tr>

@@ -43,5 +43,10 @@ nav_order: 4
     <td class="tg-cly1"></td>
     <td class="tg-0lax"></td>
   </tr>
+  <tr>
+    <td class="tg-0lax"><a href="https://proceedings.mlsys.org/paper/2022/file/077e29b11be80ab57e1a2ecabb7da330-Paper.pdf">Kuchnik, M., Klimovic, A., Simsa, J., Smith, V., & Amvrosiadis, G. (2022). Plumber: Diagnosing and Removing Performance Bottlenecks in Machine Learning Data Pipelines. Proceedings of Machine Learning and Systems, 4, 33-51.</a></td>
+    <td class="tg-cly1"></td>
+    <td class="tg-0lax"></td>
+  </tr>
 </tbody>
 </table>
