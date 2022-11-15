@@ -101,7 +101,7 @@
     <td class="tg-0lax">Group presentation and discussion</td>
   </tr>
   <tr>
-    <td class="tg-baqh" colspan="4">Part II: Surprise Paper Session, Literature Survey, and Capstone Review</td>
+    <td class="tg-baqh" colspan="4">Part II: Surprise Paper Session, Literature Review, and Capstone Review</td>
   </tr>
   <tr>
     <td class="tg-0lax" rowspan="2">10<br>Surprise Paper Session I</td>
@@ -159,17 +159,18 @@
     <td class="tg-0lax" rowspan="2">15</td>
     <td class="tg-0lax">Dec 6</td>
     <td class="tg-0lax" rowspan="2">Attend 11-632 Capstone Presentation (No Class)</td>
-    <td class="tg-0lax">Capstone Review due TBD</td>
+    <td class="tg-0lax">Capstone Review Due</td>
   </tr>
   <tr>
     <td class="tg-0lax">Dec 8</td>
-    <td class="tg-0lax">Reproducibility Challenge due TBD</td>
+    <td class="tg-0lax">Reproducibility Challenge Due</td>
   </tr>
   <tr>
     <td class="tg-0lax" rowspan="2">16</td>
     <td class="tg-0lax">Dec 13</td>
     <td class="tg-0lax" rowspan="2">Final exam week (No Class)</td>
-    <td class="tg-0lax">Literature Survey due TBD</td>
+    <td class="tg-0lax">Literature Review Due</td>
+    <td class="tg-0lax">Capstone Final Presentation Review Due</td>
   </tr>
   <tr>
     <td class="tg-0lax">Dec 15</td>
