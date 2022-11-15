@@ -107,33 +107,33 @@
     <td class="tg-0lax" rowspan="2">10<br>Surprise Paper Session I</td>
     <td class="tg-0lax">Nov 1</td>
     <td class="tg-0lax">Base paper:<br>Surprise paper:</td>
-    <td class="tg-0lax">Comparative Analysis</td>
+    <td class="tg-0lax">Comparative Analysis Due</td>
   </tr>
   <tr>
     <td class="tg-0lax">Nov 3</td>
-    <td class="tg-0lax">Class discussion / lecture</td>
+    <td class="tg-0lax">Learning Group Presentation</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax" rowspan="2">11<br>Surprise Paper Session II</td>
     <td class="tg-0lax">Nov 8</td>
     <td class="tg-0lax">Base paper:<br>Surprise paper:</td>
-    <td class="tg-0lax">Comparative Analysis</td>
+    <td class="tg-0lax">Comparative Analysis Due</td>
   </tr>
   <tr>
     <td class="tg-0lax">Nov 10</td>
-    <td class="tg-0lax">Class discussion / lecture</td>
+    <td class="tg-0lax">Learning Group Presentation</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax" rowspan="2">12<br>Surprise Paper Session III</td>
     <td class="tg-0lax">Nov 15</td>
     <td class="tg-0lax">Base paper:<br>Surprise paper:</td>
-    <td class="tg-0lax">Practice Literature Survey</td>
+    <td class="tg-0lax">Practice Literature Survey Due</td>
   </tr>
   <tr>
     <td class="tg-0lax">Nov 17</td>
-    <td class="tg-0lax">Class discussion / lecture</td>
+    <td class="tg-0lax">Learning Group Presentation</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
