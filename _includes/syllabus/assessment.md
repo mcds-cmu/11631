@@ -5,8 +5,8 @@ The course grade will be based on the following:
 - Group presentation (individual grade of fulfilling the assigned role in the group): 25%
 - Surprise paper comparative analysis (two comparative analyses of surprise paper sessions I and II): 10%
 - Learning group presentation (learning groups get together to answer questions posted by the guest speaker): 5%
-- Practice literature survey (a related work survey of surprise paper session III): 5%
-- Literature review (choose a topic covered in the course and write a literature survey of the chosen topic): 20%
+- Practice literature review (a related work review of surprise paper session III): 5%
+- Literature review (choose a topic covered in the course and write a literature review of the chosen topic): 20%
 - Capstone report review (provide constructive feedback to an 11-632 team capstone report): 2.5%
 - Capstone final presentation review (provide constructive feedback to an 11-632 team capstone final presentation): 2.5%
 - Reproducibility challenge (bonus 5% for participating in the reproducibility challenge): 5%
@@ -19,7 +19,7 @@ The course grade will be based on the following:
 | Group Presentation (Individual Grade)   |          25          |
 |  Surprise Paper Comparative Analysis    |          10          |
 |Learning Group Presentation (Group Grade)|           5          |
-|       Practice Literature Survey        |           5          |
+|       Practice Literature Review        |           5          |
 |           Literature Review             |          20          |
 |         Capstone Report Review          |          2.5         |
 | Capstone Final Presentation Review      |          2.5         |
