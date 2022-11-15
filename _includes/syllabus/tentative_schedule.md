@@ -170,11 +170,10 @@
     <td class="tg-0lax">Dec 13</td>
     <td class="tg-0lax" rowspan="2">Final exam week (No Class)</td>
     <td class="tg-0lax">Literature Review Due</td>
-    <td class="tg-0lax">Capstone Final Presentation Review Due</td>
   </tr>
   <tr>
     <td class="tg-0lax">Dec 15</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Capstone Final Presentation Review Due</td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
