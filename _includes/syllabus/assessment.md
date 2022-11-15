@@ -12,13 +12,15 @@ The course grade will be based on the following:
 
 |          **Assessment Type**          | **Grade Percentage** |
 |:-------------------------------------:|:--------------------:|
-|             Paper Summary             |          25          |
-| Presentation Discussion Participation |           5          |
-| Group Presentation (Individual Grade) |          25          |
-|  Surprise Paper Comparative Analysis  |          15          |
-|       Practice Literature Survey      |           5          |
-|           Literature Survey           |          20          |
-|         Capstone Report Review        |           5          |
-|       Reproducibility Challenge       |           5          |
-|          End-of-course Survey         |           2          |
-|                 TOTAL                 |          107         |
+|          Weekly Paper Summary           |          25          |
+| Presentation Discussion Participation   |           5          |
+| Group Presentation (Individual Grade)   |          25          |
+|  Surprise Paper Comparative Analysis    |          10          |
+|Learning Group Presentation (Group Grade)|           5          |
+|       Practice Literature Survey        |           5          |
+|           Literature Survey             |          20          |
+|         Capstone Report Review          |          2.5         |
+| Capstone Final Presentation Review      |          2.5         |
+|       Reproducibility Challenge         |           5          |
+|          End-of-course Survey           |           2          |
+|                 TOTAL                   |          107         |
