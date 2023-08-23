@@ -1,5 +1,5 @@
 ---
-layout: f22
+layout: f23
 title: Syllabus
 nav_order: 2
 has_children: false
@@ -40,7 +40,7 @@ Section B: TR 11:50 am - 1:10 pm, POS 153
 
 ## Reading List
 
-For more details on the required readings, examples of prior work, and follow-up work, please see [Reading List]({{ site.baseurl }}{{ page.subpath }}{% link f22/reading_list.md %}).
+For more details on the required readings, examples of prior work, and follow-up work, please see [Reading List]({{ site.baseurl }}{{ page.subpath }}{% link f23/reading_list.md %}).
 
 ## Tentative Schedule
 
