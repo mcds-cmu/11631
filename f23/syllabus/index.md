@@ -14,9 +14,9 @@ has_toc: false
 
 ## Time & Location
 
-Section A: TR 8:35 am - 9:55 am, POS 153
+Section A: TR 09:30AM - 10:50AM, BH A36
 
-Section B: TR 11:50 am - 1:10 pm, POS 153
+Section B: TR 11:00AM - 12:20PM, GHC 4307
 
 ## Course Format
 

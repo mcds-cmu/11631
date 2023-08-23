@@ -184,7 +184,7 @@ Please make it clear as to which part of the paper you have identified to code. 
 
 ## Private Investigator
 
-![PI](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/woman-detective-medium-light-skin-tone_1f575-1f3fc-200d-2640-fe0f.png)
+![PI](https://em-content.zobj.net/source/microsoft-teams/363/detective_medium-dark-skin-tone_1f575-1f3fe_1f3fe.png)
 
 Your job is to find out as much as you can about one of the paper’s authors. This should help you determine how qualified they are to write the paper and if their work is credible enough to be considered. Feel free to contact the authors, but remember to be courteous, polite, and on-topic (make sure to mention that you are part of this course).
 
