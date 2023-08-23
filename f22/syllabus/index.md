@@ -44,4 +44,4 @@ For more details on the required readings, examples of prior work, and follow-up
 
 ## Tentative Schedule
 
-{% include syllabus/tentative_schedule.md %}
+{% include syllabus/tentative_schedule_f22.md %}
