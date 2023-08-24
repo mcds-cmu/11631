@@ -1,8 +1,8 @@
-<!-- ---
+---
 layout: f23
 title: Schedule
 nav_order: 3
---- -->
+---
 
 # Calendar
 
@@ -13,7 +13,7 @@ nav_order: 3
 
 <iframe
     id="class-schedule-iframe"
-    src="https://calendar.google.com/calendar/embed?src=c_6a7ot1v6vcffu14j5d328hklck%40group.calendar.google.com&ctz=America%2FNew_York"
+    src="https://calendar.google.com/calendar/embed?src=c_811c860e0db2f93cc741b80195d40a35746dfd1251a6300280f186d633224a06%40group.calendar.google.com&ctz=America%2FNew_York"
     frameborder="0"
     scrolling="no">
 </iframe>
