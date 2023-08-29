@@ -13,7 +13,7 @@ Each student in a team is assigned a role to play to critique a paper. Each role
 
 ## Presenter
 
-![Presenter](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/teacher-light-skin-tone_1f9d1-1f3fb-200d-1f3eb.png)
+<!-- ![Presenter](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/teacher-light-skin-tone_1f9d1-1f3fb-200d-1f3eb.png) -->
 
 The role of the presenter is to clearly communicate the main ideas of the research paper. Think of this as a visual version of your paper. You would need to create the main presentation, describing the motivation, problem definition, method, and experimental findings of this paper. Keep your presentation between 10-15 mins.
 
@@ -41,13 +41,13 @@ Basic tips for effective presentations:
 
 ## Reviewer
 
-![Reviewer](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/woman-scientist-dark-skin-tone_1f469-1f3ff-200d-1f52c.png)
+<!-- ![Reviewer](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/woman-scientist-dark-skin-tone_1f469-1f3ff-200d-1f52c.png) -->
 
 Complete a full critical but not necessarily a negative review of the paper. Follow the guidelines for [NeurIPS reviewers (under "Review Content")](https://nips.cc/Conferences/2020/PaperInformation/ReviewerGuidelines), taking note of the example reviews included therein. In particular, please answer questions 1 to 10 under "Review Content,” including assigning an overall score. Read the Neurips reviewer guidelines for detailed instructions.
 
 ## Archaeologist
 
-![Archaeologist](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/man-farmer-medium-light-skin-tone_1f468-1f3fc-200d-1f33e.png)
+<!-- ![Archaeologist](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/man-farmer-medium-light-skin-tone_1f468-1f3fc-200d-1f33e.png) -->
 
 The aim of this role is to show the originality and relevance of your research with respect to past methodology. Determine where this paper sits in the context of previous and subsequent work. Find and report on one prior paper that substantially influenced the current paper and one newer paper that cites this current paper.
 
@@ -77,7 +77,7 @@ General guidance to creating a good literature review:
 
 ## Researcher
 
-![Researcher](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/woman-student-light-skin-tone_1f469-1f3fb-200d-1f393.png)
+<!-- ![Researcher](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/woman-student-light-skin-tone_1f469-1f3fb-200d-1f393.png) -->
 
 This is where you can get your creative juices flowing. Propose an imaginary follow-up project -- not just based on the current but only possible due to the existence and success of the current paper.
 
@@ -130,7 +130,7 @@ Guidance of format to be used for project proposal:
 
 ## Industry Expert
 
-![Industry Expert](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/man-office-worker-medium-dark-skin-tone_1f468-1f3fe-200d-1f4bc.png)
+<!-- ![Industry Expert](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/man-office-worker-medium-dark-skin-tone_1f468-1f3fe-200d-1f4bc.png) -->
 
 You must discuss how the method discussed in the paper can apply to one real-world scenario and propose a new application. Put yourself in the shoes of an employee proposing this application to their boss. Establish context (such as the industry you are working in, current solution and resources, etc.) and discuss the use-case, road map, and business advantage of utilizing the method for your application.
 
@@ -170,7 +170,7 @@ You must discuss how the method discussed in the paper can apply to one real-wor
 
 ## Hacker
 
-![Hacker](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/woman-technologist-medium-dark-skin-tone_1f469-1f3fe-200d-1f4bb.png)
+<!-- ![Hacker](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/woman-technologist-medium-dark-skin-tone_1f469-1f3fe-200d-1f4bb.png) -->
 
 Put yourself in the shoes of the technician or coder of the paper and implement a small part of the paper. This may be done on a small dataset or toy problem. You are allowed to seek out any open source implementation uploaded by the authors of the paper or a third party to assist you. We do not expect you to code the entire algorithm proposed in the paper. You may only build a small prototype that implements a core method or idea that you have identified in the paper. You must explain why you believe this to be the main focus of the paper.
 
@@ -184,7 +184,7 @@ Please make it clear as to which part of the paper you have identified to code. 
 
 ## Private Investigator
 
-![PI](https://em-content.zobj.net/source/microsoft-teams/363/detective_medium-dark-skin-tone_1f575-1f3fe_1f3fe.png)
+<!-- ![PI](https://em-content.zobj.net/source/microsoft-teams/363/detective_medium-dark-skin-tone_1f575-1f3fe_1f3fe.png) -->
 
 Your job is to find out as much as you can about one of the paper’s authors. This should help you determine how qualified they are to write the paper and if their work is credible enough to be considered. Feel free to contact the authors, but remember to be courteous, polite, and on-topic (make sure to mention that you are part of this course).
 
@@ -205,7 +205,7 @@ After doing so, you must be able to articulate what makes the author qualified t
 
 ## Social Impact Assessor
 
-![Social Impact Assessor](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/woman-judge-dark-skin-tone_1f469-1f3ff-200d-2696-fe0f.png)
+<!-- ![Social Impact Assessor](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/woman-judge-dark-skin-tone_1f469-1f3ff-200d-2696-fe0f.png) -->
 
 While (hopefully) all authors of any given research paper would want their research to have a net positive impact on this world; this may not always be the case. Many a time, the Computer Science Research Community will frame their innovations or advancements, such as Deepfakes or Driverless cars, as having a purely positive impact without giving any credence to possible negative impacts like identity theft and loss of jobs. This is akin to the Medical Research Community discussing the positives of a new treatment or drug without relaying any information about side effects. Another thing not considered is the possible future impacts of technology. It is hard to imagine that Alexander Graham Bell would know that his invention would someday lead to 1.6 million accidents in 2021 due to drivers distracted by their cell phones (especially since cars would be invented a decade later). 
 It is your job to investigate and assess the social impact of the research. You may accomplish this by following these guidelines. 
