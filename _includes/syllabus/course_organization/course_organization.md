@@ -13,7 +13,7 @@ The course is sectioned into two parts, parts I and II. Part I of the course con
 	
 In the first half of the course, each class session involves reading, presenting, critiquing, and discussing one assigned paper. Before each session, all students are required to read the paper. Two teams of students are responsible for presenting the paper. Each student in the presenting team is assigned a specialist role (details below) which guides the critiquing approach to the paper. All other students are required to submit a summary of the assigned paper and a discussion question for the paper and/or the presenting team.
 
-A class session starts with presentations of each team and is followed by a discussion. The discussion is moderated by the instructor and starts by **randomly selecting** students in the class to ask and answer questions and offer their commentary. If time permits, the discussion would then be opened to other students.
+The class session begins with a presentation, after which the class breaks into smaller discussion groups. Each presenter is responsible for generating a discussion question, and the class is divided into groups based on these questions for more targeted discussions.
 
 *Grace day policy:* Each student is granted **one** grace day throughout Part I of the course. A grace day is a day that you notify us in advance that you will not be presented for the class. This is the day that you **will not be selected to present in a team nor be chosen as one of the reviewers of the presentations**. This grace day is only allowed once. Any additional absence from the course throughout Part I of the course will result in a zero grade should you be randomly selected to present and/or on the additional absence day. 
 
