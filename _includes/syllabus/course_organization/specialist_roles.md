@@ -49,7 +49,9 @@ Complete a full critical but not necessarily a negative review of the paper. Fol
 
 <!-- ![Archaeologist](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/man-farmer-medium-light-skin-tone_1f468-1f3fc-200d-1f33e.png) -->
 
-The aim of this role is to show the originality and relevance of your research with respect to past methodology. Determine where this paper sits in the context of previous and subsequent work. Find and report on one prior paper that substantially influenced the current paper and one newer paper that cites this current paper.
+The aim of this role is to show the originality and relevance of your research with respect to past methodology. Determine where this paper sits in the context of previous and subsequent work.
+
+Find and report on one prior paper that substantially influenced the current paper and one newer paper that cites this current paper.
 
 General guidance to creating a good literature review:
 
@@ -74,6 +76,23 @@ General guidance to creating a good literature review:
         </li>
     </ol>
 </ol>
+
+Find out as much as you can about one of the paper’s authors. This should help you determine how qualified they are to write the paper and if their work is credible enough to be considered.
+
+<ul>
+<li>Here are some questions which you may consider.</li>
+<li>What did they study? What are their qualifications in the field?</li>
+<li>Where have they worked?</li>
+<li>What previous projects might have led to working on this one? If they do, where were they published?</li>
+<li>What do you think motivated them to work on this project?</li>
+<li>Are they an expert in the field?</li>
+<li>What institutions have they been affiliated with?</li>
+<li>Does the author have any affiliations (e.g., any sources of funding) which make the research they conducted biased? You may also look into who cites the author’s research. Are the same people citing the author repeatedly? If so, does the author also cite them back repeatedly? Are the citations starting to look circular or suspicious?</li>
+</ul>
+
+You are required to visit a wide variety of websites and sources to collect this information. Sources to consider are the author’s personal webpage, their institutional page, publication websites (e.g., Journal and Conference websites), and research search engines (e.g., Google Scholar or ResearchGate).
+
+After doing so, you must be able to articulate what makes the author qualified to write this paper and why their research is credible or make a case against it. 
 
 ## Researcher
 
@@ -182,26 +201,9 @@ Another example would be while coding a deep learning paper, focusing on the mai
 
 Please make it clear as to which part of the paper you have identified to code. Explain why you believe this to be the main focus of interest in the paper. Explain how you went about implementing this part of the paper. In your code, identify which parts of the code you have written yourself and which you have not.
 
-## Private Investigator
-
 <!-- ![PI](https://em-content.zobj.net/source/microsoft-teams/363/detective_medium-dark-skin-tone_1f575-1f3fe_1f3fe.png) -->
 
-Your job is to find out as much as you can about one of the paper’s authors. This should help you determine how qualified they are to write the paper and if their work is credible enough to be considered. Feel free to contact the authors, but remember to be courteous, polite, and on-topic (make sure to mention that you are part of this course).
 
-<ul>
-<li>Here are some questions which you may consider.</li>
-<li>What did they study? What are their qualifications in the field?</li>
-<li>Where have they worked?</li>
-<li>What previous projects might have led to working on this one? If they do, where were they published?</li>
-<li>What do you think motivated them to work on this project?</li>
-<li>Are they an expert in the field?</li>
-<li>What institutions have they been affiliated with?</li>
-<li>Does the author have any affiliations (e.g., any sources of funding) which make the research they conducted biased? You may also look into who cites the author’s research. Are the same people citing the author repeatedly? If so, does the author also cite them back repeatedly? Are the citations starting to look circular or suspicious?</li>
-</ul>
-
-You are required to visit a wide variety of websites and sources to collect this information. Sources to consider are the author’s personal webpage, their institutional page, publication websites (e.g., Journal and Conference websites), and research search engines (e.g., Google Scholar or ResearchGate).
-
-After doing so, you must be able to articulate what makes the author qualified to write this paper and why their research is credible or make a case against it. 
 
 ## Social Impact Assessor
 
