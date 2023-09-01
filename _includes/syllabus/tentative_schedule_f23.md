@@ -26,7 +26,7 @@
     <td class="tg-0lax" rowspan="2">2</td>
     <td class="tg-0lax">Sep 5</td>
     <td class="tg-0lax">Required Reading: <a href="https://arxiv.org/pdf/1803.03635.pdf">Frankle, J., &amp; Carbin, M. (2018). The lottery ticket hypothesis: Finding sparse, trainable neural networks. arXiv preprint arXiv:1803.03635.</a></td>
-    <td class="tg-0lax">Presentation slides due midnight Monday (for presenting team)<br>Paper summary + a discussion question for the team due midnight Monday (for non-presenting students)<br>Group presentation and discussion</td>
+    <td class="tg-0lax">Presentation slides due midnight Monday (for presenting teams)<br>Paper summary due midnight Monday (for non-presenting students)<br>Group presentation and discussion</td>
   </tr>
   <tr>
     <td class="tg-0lax">Sep 7</td>
@@ -37,7 +37,7 @@
     <td class="tg-0lax" rowspan="2">3</td>
     <td class="tg-0lax">Sep 12</td>
     <td class="tg-0lax">Required Reading: <a href="https://arxiv.org/pdf/1707.09457.pdf">Zhao, Jieyu, Tianlu Wang, Mark Yatskar, Vicente Ordonez, and Kai-Wei Chang. (2017). "Men also like shopping: Reducing gender bias amplification using corpus-level constraints." arXiv preprint arXiv:1707.09457.</a></td>
-    <td class="tg-0lax">Presentation slides due midnight Monday (for presenting team)<br>Paper summary + a discussion question for the team due midnight Monday (for non-presenting students)<br>Group presentation and discussion</td>
+    <td class="tg-0lax">Presentation slides due midnight Monday (for presenting teams)<br>Paper summary due midnight Monday (for non-presenting students)<br>Group presentation and discussion</td>
   </tr>
   <tr>
     <td class="tg-0lax">Sep 14</td>
@@ -48,7 +48,7 @@
     <td class="tg-0lax" rowspan="2">4</td>
     <td class="tg-0lax">Sep 19</td>
     <td class="tg-0lax">Required Reading: <a href="https://jmlr.org/papers/volume21/20-312/20-312.pdf">Peter Henderson, Jieru Hu, Joshua Romoff, Emma Brunskill, Dan Jurafsky, Joelle Pineau. Towards the Systematic Reporting of the Energy and Carbon Footprints of Machine Learning, JMLR 2020.</a></td>
-    <td class="tg-0lax">Presentation slides due midnight Monday (for presenting team)<br>Paper summary + a discussion question for the team due midnight Monday (for non-presenting students)<br>Group presentation and discussion</td>
+    <td class="tg-0lax">Presentation slides due midnight Monday (for presenting teams)<br>Paper summary due midnight Monday (for non-presenting students)<br>Group presentation and discussion</td>
   </tr>
   <tr>
     <td class="tg-0lax">Sep 21</td>
@@ -59,7 +59,7 @@
     <td class="tg-0lax" rowspan="2">5</td>
     <td class="tg-0lax">Sep 26</td>
     <td class="tg-0lax">Required Reading: <a href="https://www.pdl.cmu.edu/PDL-FTP/CloudComputing/osdi21-pollux.pdf">Qiao, Aurick, et al. "Pollux: Co-adaptive cluster scheduling for goodput-optimized deep learning." 15th {USENIX} Symposium on Operating Systems Design and Implementation ({OSDI} 21). 2021.</a></td>
-    <td class="tg-0lax">Presentation slides due midnight Monday (for presenting team)<br>Paper summary + a discussion question for the team due midnight Monday (for non-presenting students)<br>Group presentation and discussion</td>
+    <td class="tg-0lax">Presentation slides due midnight Monday (for presenting teams)<br>Paper summary due midnight Monday (for non-presenting students)<br>Group presentation and discussion</td>
   </tr>
   <tr>
     <td class="tg-0lax">Sep 28</td>
@@ -70,7 +70,7 @@
     <td class="tg-0lax" rowspan="2">6</td>
     <td class="tg-0lax">Oct 3</td>
     <td class="tg-0lax">Required Reading: <a href="https://arxiv.org/abs/1812.05239">Ken Holstein, Jennifer Wortman Vaughan, Hal Daumé III, Miro Dudík, Hanna Wallach, Improving fairness in machine learning systems: What do industry practitioners need?, in Proceedings of 2019 ACM CHI Conference on Human Factors in Computing Systems.</a></td>
-    <td class="tg-0lax">Presentation slides due midnight Monday (for presenting team)<br>Paper summary + a discussion question for the team due midnight Monday (for non-presenting students)<br>Group presentation and discussion</td>
+    <td class="tg-0lax">Presentation slides due midnight Monday (for presenting teams)<br>Paper summary due midnight Monday (for non-presenting students)<br>Group presentation and discussion</td>
   </tr>
   <tr>
     <td class="tg-0lax">Oct 5</td>
@@ -81,7 +81,7 @@
     <td class="tg-0lax" rowspan="2">7</td>
     <td class="tg-0lax">Oct 10</td>
     <td class="tg-0lax">Required Reading:</td>
-    <td class="tg-0lax">Presentation slides due midnight Monday (for presenting team)<br>Paper summary + a discussion question for the team due midnight Monday (for non-presenting students)<br>Group presentation and discussion</td>
+    <td class="tg-0lax">Presentation slides due midnight Monday (for presenting teams)<br>Paper summary due midnight Monday (for non-presenting students)<br>Group presentation and discussion</td>
   </tr>
   <tr>
     <td class="tg-0lax">Oct 12</td>
