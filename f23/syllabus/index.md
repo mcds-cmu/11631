@@ -24,7 +24,7 @@ Section B: TR 11:00AM - 12:20PM, GHC 4307
 
 ## Course Organization
 
-{% include syllabus/course_organization/course_organization.md %}
+{% include syllabus/course_organization/course_organization_f23.md %}
 
 ## Attendance Policy
 
@@ -32,7 +32,7 @@ Section B: TR 11:00AM - 12:20PM, GHC 4307
 
 ## Assessment
 
-{% include syllabus/assessment.md %}
+{% include syllabus/assessment_f23.md %}
 
 ## AIV Policy
 
