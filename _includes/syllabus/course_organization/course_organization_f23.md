@@ -22,15 +22,15 @@ The class session begins with a presentation, after which the class breaks into 
 
 Discussion questions come from the people who presented that day. While each role comes up with their own discussion question, please make sure that the questions are different enough.
 
-    Note: please consolidate all the discussion questions (one per role) into one slide that you will keep up at the end of the presentation.
+ Note: please consolidate all the discussion questions (one per role) into one slide that you will keep up at the end of the presentation.
 
 We will break up into groups, one group per discussion question, for about 15minutes / 50% of the time remaining before the end of lecture.
 
-    One member of each discussion group will have to take notes.
+ One member of each discussion group will have to take notes.
 
 Each member will fill out the Audience question form available on Canvas.
 
-    Note: people who presented that day do not have to fill out the form.
+ Note: people who presented that day do not have to fill out the form.
 
 Then, we will have a full-class discussion, where one member from each group (note-taker or someone else) will summarize the main talking points that were brought up during the group discussion. (remaining 15 minutes)
 
