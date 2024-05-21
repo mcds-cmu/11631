@@ -57,7 +57,7 @@ _Extra credit: ChatGPT red-teaming_
 
 *You will get more points the more creative your input prompt/question is, and the better your explanation is for why it got it wrong.*
 
-**Grading rubric:**
+<!-- **Grading rubric:**
 
 *0: if the system got the answer right*
 
@@ -69,18 +69,16 @@ _Extra credit: ChatGPT red-teaming_
 *Explanation points:*
 *0: Explanation is missing or wrong*
 *1: Explanation is correct*
-*2: Explanation is correct and shows insights into limitations of ChatGPT*
+*2: Explanation is correct and shows insights into limitations of ChatGPT* -->
 
 ### Part II
 
-The second half of the course consists of surprise paper sessions, guest speaker presentations, a literature survey, and a capstone project review.
+The second half of the course consists of self-nominated paper presentations, guest speaker presentations, a literature survey, and a capstone project review.
 
-_Surprise paper sessions and guest speaker presentations_
+_Phase II Presentations_
 {: .fw-700 }
 
-The second half of the course starts with three surprise paper sessions in which students are required to read a base paper before the Tuesday class meeting. During the Tuesday class meeting, the instructor will distribute an additional paper to be read. There will also be a presentation from a guest speaker during the class meeting on Tuesday or Thursday. For each of the first two surprise paper sessions, students must submit a comparative analysis to compare and contrast the base and surprise papers due on Tuesday.
-
-For the last surprise paper session, each student chooses one additional paper to write a related work survey of the base, surprise, and additional papers. Students are encouraged to take this opportunity to practice their literature survey skills to prepare for the comprehensive literature survey assignment to be due at the end of the course.
+Each week, there will be 8 presentations on different papers, with 4 on Tuesday and 4 on Thursday. On Tuesdays, two of the four papers will require a comparative summary to prepare for a survey literature assignment at the semester's end. Students must submit a specific, critical question for at least two of the four presentations each day, avoiding shallow inquiries. Students are encouraged to nominate peer-reviewed, published papers between 6-15 pages long, excluding surveys or position papers. Nominating a paper earns a point, though students are not guaranteed to present their nominated paper, but preferences will be considered.
 
 _Literature survey_
 {: .fw-700 }
