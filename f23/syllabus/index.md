@@ -37,11 +37,3 @@ Section B: TR 11:00AM - 12:20PM, GHC 4307
 ## AIV Policy
 
 {% include syllabus/aiv_policy.md %}
-
-<!-- ## Reading List
-
-<!-- For more details on the required readings, examples of prior work, and follow-up work, please see [Reading List]({{ site.baseurl }}{{ page.subpath }}{% link f23/reading_list.md %}). --> -->
-
-<!-- ## Tentative Schedule
-
-<!-- {% include syllabus/tentative_schedule_f23.md %} --> -->
