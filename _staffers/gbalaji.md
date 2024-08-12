@@ -7,3 +7,4 @@ photo: staff/gbalaji.jpg
 website: https://www.linkedin.com/in/gokulapriyan-balaji/
 staff_for: [f24]
 ---
+COE - ECE
