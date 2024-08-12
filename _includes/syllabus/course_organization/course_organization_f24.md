@@ -56,7 +56,7 @@ Another goal of this class is to prepare you for the capstone classes in the Spr
 
 *Format*: LaTex with Bibtex, using the ARR style format ([LaTeX templates](https://acl-org.github.io/ACLPUB/formatting.html), also available as an [Overleaf template](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj)).
 
-All assignments from this sequence can be found here: Full assignment: [click here]({{ site.baseurl }}{{ page.subpath }}{% link f24/homework/literature_review.md %})
+All assignments from this sequence can be found here: Full assignment: [click here]({{ site.baseurl }}/f24/homework/#literature_review)
 
 ### Capstone project review
 
