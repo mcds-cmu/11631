@@ -23,7 +23,6 @@ A main goal of the class is to learn how to clearly and effectively present rese
 *Presentation format and visuals*: Please refer to this guide for tips on how to present your paper: [click here]({{ site.baseurl }}/f24/homework/#presentation-tips)
 
 
-
 ### Summaries and Discussions
 
 Another main goal of the class is to be able to critically read a paper and discuss it with others. There will be a total of three discussion lectures, which will go like this:
