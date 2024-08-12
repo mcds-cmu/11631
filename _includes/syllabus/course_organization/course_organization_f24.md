@@ -20,9 +20,8 @@ A main goal of the class is to learn how to clearly and effectively present rese
 
 *Selection of papers*: For the practice presentations, you will be assigned the paper that you have to present. For the main presentations, we will ask for paper suggestions from all students, and then assign presentation papers taking into account who nominated what paper.
 
-<!-- *Presentation format and visuals*: Please refer to this guide for tips on how to present your paper:  [click here]({{ site.baseurl }}{{ page.subpath }}{% link f24/homework/presentation_tips.md %}) -->
+*Presentation format and visuals*: Please refer to this guide for tips on how to present your paper: [click here]({{ site.baseurl }}/f24/homework/#presentation-tips)
 
-*Presentation format and visuals*: Please refer to this guide for tips on how to present your paper: [click here]({{ site.baseurl }}{{ https://mcds-cmu.github.io/11631/f24/homework/#presentation-tips }})
 
 
 ### Summaries and Discussions
