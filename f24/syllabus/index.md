@@ -26,7 +26,7 @@ TR 05:00PM	06:20PM, TEP 1403
 
 ## Attendance Policy
 
-{% include syllabus/attendance_policy.md %}
+{% include syllabus/attendance_policy_f24.md %}
 
 ## Assessment
 

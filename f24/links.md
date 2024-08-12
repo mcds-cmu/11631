@@ -9,7 +9,6 @@ nav_order: 6
 
 Canvas: [https://canvas.cmu.edu](https://canvas.cmu.edu) <br />
 Piazza: accessed through Canvas <br />
-Gradescope: accessed through Canvas
 
 ## CMU links
 
@@ -20,5 +19,5 @@ Office of Disability Resources: [https://www.cmu.edu/disability-resources/](http
 Counseling and Psychological Services (CaPS): [https://www.cmu.edu/counseling/](https://www.cmu.edu/counseling/) <br />
 School of Computer Science: [https://www.cs.cmu.edu](https://www.cs.cmu.edu) <br />
 Language Technologies Institute: [https://www.lti.cs.cmu.edu](https://www.lti.cs.cmu.edu) <br />
-Master of Computational Data Science: [https://mcds.cs.cmu.edu](https://mcds.cs.cmu.edu) <br />
+Master of Computational Data Science: [https://www.lti.cs.cmu.edu/academics/masters-programs/mcds.html](https://www.lti.cs.cmu.edu/academics/masters-programs/mcds.html) <br />
 Eberly Center Student Success Center: [https://www.cmu.edu/student-success/other-resources/handouts/index.html](https://www.cmu.edu/student-success/other-resources/handouts/index.html)
