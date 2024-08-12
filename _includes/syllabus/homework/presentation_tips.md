@@ -1,5 +1,3 @@
-# Presentation tips
-
 Here are some general tips for presenting a research paper, though some of these may not apply to your paper.
 
 ### Introduction

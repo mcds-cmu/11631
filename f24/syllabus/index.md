@@ -14,7 +14,7 @@ has_toc: false
 
 ## Time & Location
 
-TR 05:00PM	06:20PM, TEP 1403
+TR 05:00PM- 06:20PM, TEP 1403
 
 ## Course Format
 
