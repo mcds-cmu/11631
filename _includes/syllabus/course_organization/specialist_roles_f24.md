@@ -2,7 +2,7 @@ Each student in a team is assigned an equally important role to discuss and crit
 
 ### Reviewer
 
-Complete a full critical but not necessarily a negative review of the paper. Follow the guidelines for writing the paper review ({% include syllabus/homework/literature_review.md %}). Write between 400 and 600 words.
+Complete a full critical but not necessarily a negative review of the paper. Follow the guidelines for writing the paper review ([click here]({{ site.baseurl }}{{ page.subpath }}{% syllabus/homework/literature_review.md %})). Write between 400 and 600 words.
 
 ### Archaeologist
 

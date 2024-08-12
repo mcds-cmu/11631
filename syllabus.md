@@ -40,7 +40,7 @@ A main goal of the class is to learn how to clearly and effectively present rese
 
 *Selection of papers*: For the practice presentations, you will be assigned the paper that you have to present. For the main presentations, we will ask for paper suggestions from all students, and then assign presentation papers taking into account who nominated what paper.
 
-*Presentation format and visuals*: Please refer to this guide for tips on how to present your paper: {% include syllabus/homework/presentation_tips.md %}
+*Presentation format and visuals*: Please refer to this guide for tips on how to present your paper:  [click here]({{ site.baseurl }}{{ page.subpath }}{% link syllabus/homework/presentation_tips.md %})
 
 ### Summaries and Discussions
 
@@ -61,7 +61,7 @@ The specialist roles are the following:
 - Industry Expert
 - Social Impact Assessor
 
-See the following link for descriptions on what each role should do: {% include syllabus/course_organization/specialist_roles.md %}
+See the following link for descriptions on what each role should do: {% [click here]({{ site.baseurl }}{{ page.subpath }}{% link syllabus/course_organization/specialist_roles_f24.md %}) %}
 
 ### Review & literature survey
 
@@ -74,7 +74,7 @@ Another goal of this class is to prepare you for the capstone classes in the Spr
 
 *Format*: LaTex with Bibtex, using the ARR style format ([LaTeX templates](https://acl-org.github.io/ACLPUB/formatting.html), also available as an [Overleaf template](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj)).
 
-All assignments from this sequence can be found here: Full assignment: {% include syllabus/homework/literature_review.md %}
+All assignments from this sequence can be found here: Full assignment: [click here]({{ site.baseurl }}{{ page.subpath }}{% syllabus/homework/literature_review.md %})
 
 ### Capstone project review
 
@@ -191,7 +191,7 @@ Each student in a team is assigned an equally important role to discuss and crit
 
 ### Reviewer
 
-Complete a full critical but not necessarily a negative review of the paper. Follow the guidelines for writing the paper review ({% include syllabus/homework/literature_review.md %}). Write between 400 and 600 words.
+Complete a full critical but not necessarily a negative review of the paper. Follow the guidelines for writing the paper review ([click here]({{ site.baseurl }}{{ page.subpath }}{% syllabus/homework/literature_review.md %})). Write between 400 and 600 words.
 
 ### Archaeologist
 
