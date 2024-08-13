@@ -70,11 +70,11 @@ Some notes:
 - You can and are encouraged to cite more than just the required papers, especially in the introduction (e.g., to motivate the existence of the research area) and future directions sections (e.g., to give ideas of how to address open gaps).
 - You can include at most one figure and one table in your write-up. They must bring in useful information that isn't better written in text.
 - Example published literature reviews (which are useful to learn how to frame reviews, we do not expect as much work as these published reviews):
-  - Human-centered/NLP: https://aclanthology.org/P19-1159.pdf
-  - Analytics/NLP: https://aclanthology.org/2020.coling-main.247.pdf
-  - Systems: https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cdt2.12016
-  - Data science/ML: https://arxiv.org/abs/2402.16827
-  - LLMs/Systems: https://arxiv.org/abs/2312.03863
+  - Human-centered/NLP: [https://aclanthology.org/P19-1159.pdf](https://aclanthology.org/P19-1159.pdf)
+  - Analytics/NLP: [https://aclanthology.org/2020.coling-main.247.pdf](https://aclanthology.org/2020.coling-main.247.pdf)
+  - Systems: [https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cdt2.12016](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cdt2.12016)
+  - Data science/ML: [https://arxiv.org/abs/2402.16827](https://arxiv.org/abs/2402.16827)
+  - LLMs/Systems: [https://arxiv.org/abs/2312.03863](https://arxiv.org/abs/2312.03863)
 
 Rubric:
 
