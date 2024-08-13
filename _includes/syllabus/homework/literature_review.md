@@ -82,14 +82,11 @@ Rubric:
 - *3 points* - Coherent choice of papers: are the papers related to the same overall topic?
 - *5 points* - Introduction
   - Does the review introduce the topic area well (with examples)? Does it motivate why the task is meaningful or important? Does it give an overview of the literature review?
-
 - *12 points* - Summaries
   - For each paper: Does the review summarize the papers' main task and overall topic? Does it summarize papers' methodology, approach? Does it summarize the papers' main results, findings, and takeaways?
-
 - *20 points* - Comparison. For each dimension: 
   - Does the review appropriately compare the similarities the papers of the papers? Does the review contrast the papers appropriately? If some dimensions are not applicable, does the review mention it? Does the review go beyond simply restating what papers did, but instead tie the papers together thematically and relationally?
   - Dimensions: Research questions and objectives; Methodological approaches; Dataset, domain, scope; Key findings and results.
-
 - *10 pts* - Open Questions. Does the review appropriately outline open questions that are remaining? Does the review mention future directions for next research projects towards tackling the broader task? Does the review provide possible methods for tackling these future directions? Does the review mention more than 2 open remaining questions?
 - *3 pts* - Conclusion - Does the review appropriately summarize the task at hand, and papers examined? Does it briefly mention open questions or future work? Is the conclusion an appropriate length (~1/4-1/2 column)?
 
