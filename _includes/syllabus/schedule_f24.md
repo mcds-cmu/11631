@@ -3,7 +3,7 @@
 |Week 1|8/27|Lecture|Lecture: Welcome, class overview, AIVs||
 ||8/29|Lecture|Lecture: How to present papers||
 |Week 2|9/3|Lecture|Lecture: Devising a research project & evaluations & ethical implications & bias of AI||
-||9/5|GL|Kamal Guest lecture on interdisciplinary capstones||
+||9/5|GL|Guest lectures on previous capstones (Kemal Oflazer, capstone teams) ||
 |Week 3|9/10|PP|Practice presentations (zoom)||
 ||9/12|PP|Practice presentations (zoom)||
 |Week 4|9/17|PP|Practice presentations (zoom)||
