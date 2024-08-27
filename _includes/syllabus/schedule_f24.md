@@ -25,8 +25,8 @@
 |Week 12|11/12|Pres|In-class presentations||
 ||11/14|Pres|In-class presentations||
 |Week 13|11/19|Lecture|Writing a literature survey (with in-class exercise)||
-||11/21|GL|Guest lectures (preferably from previous capstone alumns)|Write literature survey draft|
-|Week 14|11/26|GL|Guest lectures (preferably from previous capstone alumns)||
+||11/21|GL|Guest lectures|Write literature survey draft|
+|Week 14|11/26|GL|Guest lectures||
 ||11/28||--- Thanksgiving ---||
 |Week 15|12/3|GL|Attend capstone presentations||
 ||12/5|GL|Attend capstone presentations|Write literature survey (building on feedback from previous draft)|
