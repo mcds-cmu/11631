@@ -20,13 +20,15 @@
 ||10/24|Pres|In-class presentations||
 |Week 9|10/29|Pres|In-class presentations|Find teammates for review and surveys|
 ||10/31|Pres|In-class presentations||
-|Week 11|11/5|Pres|In-class presentations|Write review for paper|
+|Week 10|11/5|Pres|In-class presentations|Write review for paper|
 ||11/7|Pres|In-class presentations||
-|Week 12|11/12|Pres|In-class presentations||
+|Week 11|11/12|Pres|In-class presentations||
 ||11/14|Pres|In-class presentations||
-|Week 13|11/19|Pres|In-class presentations||
+|Week 12|11/19|Pres|In-class presentations||
 ||11/21|GL|Guest lectures|Write literature survey draft|
-|Week 14|11/26|GL|Guest lectures||
+|Week 13|11/26|GL|Guest lectures||
 ||11/28||--- Thanksgiving ---||
-|Week 15|12/3|GL|Attend capstone presentations||
+|Week 14|12/3|GL|Attend capstone presentations||
 ||12/5|GL|Attend capstone presentations|Write literature survey (building on feedback from previous draft)|
+|Week 15|12/10|GL|Attend capstone presentations||
+||12/12|GL|Attend capstone presentations||
