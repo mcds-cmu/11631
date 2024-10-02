@@ -12,7 +12,7 @@
 ||9/26|Pres|In-class presentations||
 |Week 6|10/1|Pres|In-class presentations||
 ||10/3||||
-|Week 7|10/8|
+|Week 7|10/8|Disc|In-class discussion for second area|Read papers according to role, write summary on Canvas|
 ||10/10|Pres|In-class presentations||
 |Fall break|10/15||--- Fall break ---||
 ||10/17||--- Fall break ---||
