@@ -16,14 +16,14 @@
 ||10/10|Pres|In-class presentations||
 |Fall break|10/15||--- Fall break ---||
 ||10/17||--- Fall break ---||
-|Week 8|10/22|Disc|In-class discussion for third area|Read papers according to role, write summary on Canvas|
+|Week 8|10/22|Pres|In-class presentations||
 ||10/24|Pres|In-class presentations||
 |Week 9|10/29|Pres|In-class presentations|Find teammates for review and surveys|
 ||10/31|Pres|In-class presentations||
 |Week 11|11/5|Pres|In-class presentations|Write review for paper|
 ||11/7|Pres|In-class presentations||
 |Week 12|11/12|Pres|In-class presentations||
-||11/14|Pres|In-class presentations||
+||11/14|Disc|In-class discussion for third area|Read papers according to role, write summary on Canvas|
 |Week 13|11/19|Pres|In-class presentations||
 ||11/21|GL|Guest lectures|Write literature survey draft|
 |Week 14|11/26|GL|Guest lectures||
