@@ -11,6 +11,8 @@ Using the Google or Canvas form, give short explanations:
 
 We will randomly assign each team member a paper from the list.
 
+Note, you are required to select recent (2020 or older) and published (not arxiv-only) papers. Additionally, you cannot select survey papers or position papers. If you have doubts about the papers you select, please post on Piazza.
+
 ## Paper review
 
 The review should consist of (adapted from the [ARR reviewing guide](https://aclrollingreview.org/reviewertutorial#how-to-write-a-good-review)):
@@ -98,7 +100,7 @@ Total: 55 points
 
 The goal of this assignment is to further finetune your skills in reviewing and synthesizing academic literature in the your subfield of data science. You will build on top of the existing practice literature review, adding 4 more papers, and incorporating the comments from TAs. The final review should 5-6 pages.
 
-You should find 4 related papers, preferably ones that are cited in your other 4 papers, or that cite one/some of the 4 papers. 
+You should find 4 related papers, preferably ones that are cited in your other 4 papers, or that cite one/some of the 4 papers. Same as for the review, you are required to select recent (2020 or older) and published (not arxiv-only) papers. Additionally, you cannot select survey papers or position papers. If you have doubts about the papers you select, please post on Piazza.
 
 Rubric:
 
