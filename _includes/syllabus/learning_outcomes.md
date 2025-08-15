@@ -1,5 +1,8 @@
-The main learning objectives of the course are for students to (a) demonstrate a basic understanding of the Data Science literature (via sample application areas, associated publication venues, and writing styles), (b) apply this understanding to specific publications (by writing and justifying academic evaluations of the work), (c) report on a Data Science publication in a comprehensive, collaborative presentation of a given publication and its related works, (d) defend and criticize, via relevant statements, questions and form-based evaluation, reports, and presentations on Data Science publications while participating in constructive discussion about such presentations, and (e) able to critically analyze and synthesize Data Science literature individually from the lens of a specialist role and collaboratively in a group.
+This course introduces students to the breadth of data science—covering human-centered, analytic, and systems approaches—through exposure to a wide variety of research topics and literature. Emphasis is placed on developing core academic skills: reading, writing, presenting, critiquing, discussing, and researching in data science. Students will collaborate to analyze publications, synthesize ideas from diverse subfields, and effectively communicate their insights both individually and in groups.
 
-All of these outcomes are essential preparation for the subsequent MCDS capstone course sequence (11-634 Capstone Planning Seminar, 11-632 Data Science Capstone, and 11-635 Data Science Capstone Research). 
+- **Gain exposure to the breadth of data science literature**, including human-centered, analytic, and systems-oriented research, as well as relevant application areas, venues, and writing styles.
+- Learn how to **critically read, evaluate, and discuss** data science publications, justifying academic assessments of specific works.
+- Develop skills for **writing academic papers and reviews**, by synthesizing research content from multiple perspectives.
+- **Present research papers** in a clear, comprehensive, and collaborative manner, connecting a given publication to related works and broader themes in the field.
 
 
