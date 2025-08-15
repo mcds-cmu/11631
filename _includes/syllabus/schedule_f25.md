@@ -1,5 +1,5 @@
-"|Week|Date|Type|Topic / activity|Homework|
-|---|---|---|---|---|"
+|Week|Date|Type|Topic / activity|Homework|
+|---|---|---|---|---|
 |Week 1|8/26|Lecture|Lecture: Welcome, class overview, AIVs||
 |Week 1|8/28|Lecture|Lecture: How to present & write papers, scientific method basics||
 |Week 2|9/2|GL|Overview lecture: Systems-Oriented Data Science (Seth Goldstein)||
