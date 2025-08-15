@@ -55,7 +55,7 @@ The specialist roles are the following:
 - Industry Expert
 - Social Impact Assessor
 
-See the following link for descriptions on what each role should do: {% include syllabus/course_organization/specialist_roles.md %}
+See the following link for descriptions on what each role should do: {% include syllabus/course_organization/specialist_roles_f25.md %}
 
 ### Review & literature survey
 
