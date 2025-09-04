@@ -1,9 +1,9 @@
 |Week|Date|Type|Topic / activity|Homework|
 |---|---|---|---|---|
 |Week 1|8/26|Lecture|Lecture: Welcome, class overview, AIVs||
-|Week 1|8/28|Lecture|Lecture: How to present & write papers, scientific method basics||
+|Week 1|8/28|Lecture|Lecture: How to present & write papers||
 |Week 2|9/2|GL|Overview lecture: Systems-Oriented Data Science (Seth Goldstein)||
-|Week 2|9/4|Lecture|Lecture: Responsible AI||
+|Week 2|9/4|GL|Attend Yejin Choi guest lecture (4:30-6PM)||
 |Week 3|9/9|GL|Overview lecture: Human-centered Data Science (Adam Perer)||
 |Week 3|9/11|GL|Overview lecture: Analytics (Carolyn Rose )||
 |Week 4|9/16|PP|Practice presentations (zoom)|Fill out paper interest & presentation teammate form|
@@ -28,7 +28,7 @@
 |Week 12|11/20|Pres|In-class presentations|Write literature survey draft|
 |Week 13|11/25|Pres|In-class presentations||
 |Week 13|11/27||--- Thanksgiving ---||
-|Week 14|12/2||No classes||
+|Week 14|12/2|Lecture|Lecture: Responsible AI||
 |Week 14|12/3|GL|Attend capstone poster sessions (required)||
 |Week 14|12/4||No classes|Write literature survey (building on feedback from previous draft)|
 |Week 15|12/9||No classes||
