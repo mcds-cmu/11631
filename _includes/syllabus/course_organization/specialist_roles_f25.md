@@ -69,6 +69,18 @@ Write between 400 and 600 words.
 
 ---
 
+## Instructions about references in these summaries
+
+For each of the roles above, you are requires to include references or citations:
+- Cite the paper the summary is about in the first sentence of your summary.
+- Make sure to back up claims with evidence and/or references. This is especially relevant for researcher, social impact, archeologist roles, but applies for all roles.
+- Include references at the end of your post (does not count towards word limit), and make sure the formatting is consistent both for in-text citations and the reference list at the end; I suggest including:
+   - For inline citations, you can use (Sap et al. 2017) / Sap et al (2017), or [number] style citations.  
+   - First author et al. (Year) Title (possibly link to paper). For example: [number] Sap et al. 2017. [Connotation Frames of Power and Agency](https://www.aclweb.org/anthology/D17-1247)
+- Do not mention other research without citing it 
+
+---
+
 ## Examples of summaries for different papers
 
 PENDING
