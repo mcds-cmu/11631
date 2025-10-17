@@ -22,8 +22,8 @@
 |Week 9|10/30|Pres|In-class presentations||
 |Week 10|11/4||--- Democracy Day ---|Write review for paper|
 |Week 10|11/6|Pres|In-class presentations||
-|Week 11|11/11|Disc|In-class discussion for third area|Read papers according to role, write summary on Canvas|
-|Week 11|11/13|Pres|In-class presentations||
+|Week 11|11/11|Pres|In-class presentations||
+|Week 11|11/13|Disc|In-class discussion for third area|Read papers according to role, write summary on Canvas|
 |Week 12|11/18|Pres|In-class presentations||
 |Week 12|11/20|Pres|In-class presentations|Write literature survey draft|
 |Week 13|11/25|Pres|In-class presentations||
