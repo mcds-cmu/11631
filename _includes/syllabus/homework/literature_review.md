@@ -9,9 +9,11 @@ Using the Google or Canvas form, give short explanations:
 - For each paper, write 2-3 sentence description of its relevance to the topic.
 - For each team member, write a 2-3 sentence background of the expertise and interest of each teammate with respect to the topic of study.
 
-We will randomly assign each team member a paper from the list.
-
-Note, you are required to select recent (2020 or newer) and published (not arxiv-only) papers. Additionally, you cannot select survey papers or position papers. If you have doubts about the papers you select, please post on Piazza.
+Notes:
+- You are required to select recent (published in the last 5 years) and published (not arxiv-only) papers.
+- Additionally, you cannot select survey papers or position papers.
+- You may not select papers that have been selected for practice presentations, main presentations, or in-class discussions, by anyone (i.e., even if you didn't read the paper but it was assigned to someone else during main presentation, you are not allowed to select it).
+If you have doubts about the papers you select, please post on Piazza.
 
 ## Paper review
 
