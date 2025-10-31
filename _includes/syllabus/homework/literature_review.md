@@ -28,6 +28,7 @@ The review should consist of (adapted from the [ARR reviewing guide](https://acl
 - *Future directions and remaining open questions*: to get you started thinking about your capstone, we want you to think about remaining open questions with respect to the broader goal of the paper, as well as any future directions you can think of. These could include methodological changes or improvements to the method, adaptations to new domains, follow up experiments to run, etc. Make sure to mention follow up experiments that would shed important light onto the paper's main research goals and why the follow up directions would be required,(e.g., avoid simply saying "they should try it on another dataset", make sure to motivate why the paper's main research question would benefit from another dataset).
 
 You must turn in your review using LaTex with Bibtex, using the ARR style format ([LaTeX templates](https://acl-org.github.io/ACLPUB/formatting.html), also available as an [Overleaf template](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj)).
+**Please see Canvas for specific instructions on what to upload.**
 
 ## Practice literature review
 
