@@ -9,7 +9,7 @@ permalink: f26/index.html
 
 # 11-631: Data Science Seminar
 
-## Fall 2025
+## Fall 2026
 
 ### Course Learning Outcomes
 
