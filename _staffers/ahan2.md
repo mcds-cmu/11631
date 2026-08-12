@@ -1,5 +1,5 @@
 ---
-name: Annette Han
+name: Annette Han Gauthier
 role: Course Developer
 email: ahan2@cs.cmu.edu
 list_order: 1
