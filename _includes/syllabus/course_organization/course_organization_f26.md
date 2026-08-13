@@ -1,13 +1,15 @@
 The main objective of the course is to get familiar with critically reading, reviewing, and presenting data science papers, to prepare you for the capstone courses. As such, the course will involve the following activities which each student is expected to participate in (N: number of times the activity occurs):
 
 - Attend lectures and guest lectures (6 or 7)
-- Read paper according to a specialist role, write a short summary, and discuss it with a group (3)
+- Read paper, write a short summary according to a specialist role, and discuss it with a group (3)
 - Do a practice (1) and main (1) in-class presentation (individual or in pairs) for papers that you have read
-- Attend in-class presentations by your colleagues, and ask a question for each presentation
+- Attend in-class presentations by your colleagues, and ask a question for each presentation (9 to 11)
 - Write a paper review (1) and a literature survey (2) according to a theme of your choosing
 - Write a constructive review of a capstone report (1) and of a capstone presentation (1)
 
-### Presentations
+### Main assessments
+
+#### Presentations
 
 A main goal of the class is to learn how to clearly and effectively present research/papers to others, which is a core component of being a data scientist. There will be two opportunities to present papers in class:
 
@@ -22,11 +24,11 @@ A main goal of the class is to learn how to clearly and effectively present rese
 
 *Presentation format and visuals*: Please refer to this guide for tips on how to present your paper: {% include syllabus/course_organization/presentation_tips.md %}
 
-### Audience participation (main presentations)
+#### Audience participation (main presentations)
 
-During the main presentation phase, those who are not presenting that week must fill out an audience form with a question for **each of the papers**. If you presented that week, you do not need to ask a question (e.g., if you presented Tuesday, you do not need to ask a question on Thursday, and vice versa).
+During the main presentation phase, those who are not presenting that week must fill out an audience form with a question for **each of the papers**. You do not need to ask a question on days where you are presenting yourself.
 
-The instructor will randomly select a 1-3 students to ask their question out loud for each paper. You are not allowed to ask ChatGPT or other GenAI tools to produce a question for you.
+The instructor will randomly select a 1-3 students to ask their question out loud for each paper. You are not allowed to ask ChatGPT or other GenAI tools to produce a question for you (see GenAI policy below).
 
 Questions will be both graded as your attendance and for question quality. The reason for the latter is that it's important to be able to ask good specific questions for new research.
 
@@ -36,52 +38,49 @@ Rubric for questions:
 - 1 point: low-effort or low-hanging fruit question (e.g., How does [newest OpenAI model] do on this? How would this work on other languages? Is there a scenario where [method/system] fails? How fast is the system? Can the system design be extended to other networks?)
 - 2 points: good question
 
-### Summaries and Discussions
+#### Summaries and Discussions
 
-Another main goal of the class is to be able to critically read a paper and discuss it with others. There will be a total of three discussion lectures, which will go like this:
+Another main goal of the class is to learn how to critically read a paper, analyze it through different perspectives, and have productive discussions about research with others. There will be a total of **three discussion lectures**, one for each of the three data science areas covered in the course.
 
-- You will be assigned a paper
-- You will be assigned a specialist role, which will describe the lens through which you should present the paper
-- Before the start of each discussion lecture, you will have to post a summary on Canvas that summarizes your talking points for the discussion.
-- After each discussion lecture (or during), you will post a follow up comment on your own summary on Canvas with one thing you learned from the discussion.
+For each discussion:
 
-*Summary format & length*: you will post the summaries to Canvas, and keep them between 400 and 600 words. Ensure that your summaries are readable to someone who has not read the paper. Avoid huge walls of text, and feel free to use bulleted lists or other formatting. Do not post images, charts, or tables.
+- You will be assigned a paper to **read before class**.
+- You should **print the paper** and are encouraged to **annotate it as you read**.
+- In class, you will be assigned a **discussion role**, which provides a particular lens through which to analyze the paper.
+- During the **first 20 minutes of class**, you will write two short summaries **by hand, without laptops or internet access**: (1) a 3–5 sentence general summary of the paper and (2) a 7–8 sentence analysis through the lens of your assigned role.
+- You will then join a small group and spend the remainder of the class **discussing the paper from your different assigned perspectives**.
 
-The specialist roles are the following:
+The five possible discussion roles are:
 
-- Reviewer
-- Archaeologist
-- Researcher
-- Industry Expert
-- Social Impact Assessor
+- 🔬 *Researcher*: identify a meaningful follow-up study or research direction.
+- 🏭 *Industry Expert*: consider how the work could be applied and deployed in the real world.
+- ⚖️ *Social Impact Assessor*: examine potential societal benefits, harms, and unintended consequences.
+- 🧐 *Skeptic*: identify the strongest reason to be cautious about the paper's conclusions.
+- 🔗 *Connector*: analyze the paper from the perspective of another area of data science (Human-Centered, Analytics, or Systems).
 
-See the following link for descriptions on what each role should do: {% include syllabus/course_organization/specialist_roles_f25.md %}
+See the Paper Discussions assignment on Canvas for detailed instructions and descriptions of each role.
 
-### Review & literature survey
+#### Review & literature survey
 
-Another goal of this class is to prepare you for the capstone classes in the Spring and Fall, in which you will do a capstone research  project of your choice. To prepare you for that project, you will have to work your way up to a literature survey in the topic area of your project, in a group of at most 4 students. This will encompass three steps:
+To teach you how to distill open questions in specific sub-areas of data science, you will learn how to write a literature survey of at least 8 papers. You will do this in the topic area of your choice, in a group of at most 4 students. This will encompass four steps:
 
 - *Team and topic choice*: you will have to come up with a topic area, 4 relevant papers, and find your teammates.
 - *Paper review*: you will each write a review of a paper, focusing on the remaining broad questions that the paper leaves open. Each teammate will get one of the papers you submitted. Write at most 1.5 pages of content. 
-- *Draft literature survey*: focusing on your task and topic area, summarize and compare your 4 related papers' similarities and differences, as well as the remaining questions that the papers leave open. Write at most 3 pages, and at least 2 pages (excluding references). 
-- *Literature survey*: staying in the same topic area and task, you will choose an additional 4 papers, and discuss them together with the 4 papers from the draft literature survey (8 total) in a literature survey. Write at most 6 pages, and at least 5 pages (excluding references). 
+- *Draft literature survey*: focusing on your task and topic area, summarize and compare your 4 related papers' similarities and differences, as well as the remaining questions that the papers leave open. Use GenAI to make a first draft, critique that draft, and improve upon it. 
+- *Literature survey*: staying in the same topic area and task, you will choose an additional 4 papers with the help of GenAI, and incorporate them into the draft literature survey (8 total) using a similar GenAI-critique-improve sequence. 
 
-*Format*: LaTex with Bibtex, using the ARR style format ([LaTeX templates](https://acl-org.github.io/ACLPUB/formatting.html), also available as an [Overleaf template](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj)).
+For more details, all assignments from this sequence can be found on Canvas.
 
-All assignments from this sequence can be found here: Full assignment: {% include syllabus/homework/literature_review.md %}
-
-### Capstone project review
+#### Capstone project review
 
 Finally, during the last two weeks of class, students will attend at least one final second-year capstone presentation and review one draft capstone report written by a second-year MCDS student team.
 
-## Extra credit assignments
+### Extra credit assignments
 
-### ChatGPT red-teaming
+#### LLM-review critique
 
-*Extra credit*: Try asking ChatGPT/other AI platforms some questions related to a paper that someone presented in class, and assess the output’s correctness. Your goal is two-fold: (1) find an input question / prompt that will lead ChatGPT to produce something incorrect, and (2) explain what about the output is incorrect, and hypothesize why ChatGPT might have gotten it wrong.
+*Extra credit*: Due at the same time as your paper review, you can optionally turn in a comparative critique of how a GenAI system would review the paper you were assigned. More details in the assignment on Canvas.
 
-*You will get more points the more creative your input prompt/question is, and the better your explanation is for why it got it wrong.* More details in the assignment on Canvas.
-
-### Science communication
+#### Science communication
 
 *Extra credit*: Create a short piece of social media content (e.g., TikTok/Instagram Reels/YouTube shorts video, henceforth: *content piece*) on a concept related to data science. Along with your video, you will submit a short write-up that describes your process (e.g., daily journal log, production diary, challenges), contributions of each team member, and answers to the rubric questions (see requirements below). More details in the assignment on Canvas.
