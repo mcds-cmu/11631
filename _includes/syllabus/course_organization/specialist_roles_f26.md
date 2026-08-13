@@ -1,87 +1,19 @@
+### Researcher 🔬
 
+Approach the paper as a researcher deciding what should come next. Identify an important limitation, unanswered question, or opportunity raised by the paper, and propose a meaningful follow-up study that builds directly on its contribution. Explain what the follow-up would do differently and what we could learn from it that the current paper cannot tell us.
 
-Each student in a team is assigned an equally important role to discuss and critique a paper. Details and preparations for each role are provided below. Students should review these and ask for clarification if needed. While students can express role preferences to reflect their individuality and backgrounds, the instructor makes the final decision. Students may not always get their preferred roles but are encouraged to use this as a chance to explore new abilities. Due to class size, not all students will play every role.
+### Industry Expert 🏭
 
-### Reviewer
+Approach the paper as a practitioner considering whether its ideas could be useful in the real world. Identify a plausible application and discuss what would be required to actually deploy the approach, including assumptions that might not hold outside the research setting. Explain whether you would recommend adopting the approach and why.
 
-Complete a full critical but not necessarily a negative review of the paper. Follow the guidelines for writing the paper review [click here]({{ site.baseurl }}/f24/homework/#literature_review). Write between 400 and 600 words.
+### Social Impact Assessor ⚖️
 
-### Archaeologist
+Consider what might happen if the ideas or technology in this paper were widely adopted. Identify important stakeholders and discuss potential benefits as well as harms, inequities, or unintended consequences. Suggest one way the research, evaluation, or deployment could be changed to increase its benefits or mitigate its risks.
 
-The aim of this role is to show the originality and relevance of your research with respect to past and future methodology. Determine where this paper sits in the context of previous and subsequent work. Concretely, you must find and report on one prior paper that substantially influenced the current paper and one newer paper that cites this current paper. Briefly summarize each of these papers and their relationship to the current paper. Write between 400 and 600 words.
+### Skeptic 🧐
 
-1. **Identify Influential Prior Work:**
-   - Find a previous paper that substantially influenced the current paper. Summarize its key contributions and explain how it relates to and sets the foundation for the current research.
-2. **Locate Subsequent Citations:**
-   - Identify a newer paper that cites the current paper. Summarize this newer work and describe how it builds upon or diverges from the current research.
-3. **Contextualize the Research:**
-   - Place the current paper within the broader research landscape by comparing and contrasting it with the identified prior and subsequent works. Discuss its originality and relevance in advancing the field.
-4. **Write a Comprehensive Summary:**
-   - In 400 to 600 words, synthesize the summaries and analyses of the prior and subsequent papers, detailing their relationship to the current paper and its position within the ongoing research conversation.
+Approach the paper with the goal of identifying the strongest reason to be cautious about its conclusions. Focus on an important assumption, methodological choice, dataset limitation, evaluation decision, alternative explanation, or other issue that could weaken the paper's claims. Explain what additional evidence or experiment would make you more convinced.
 
-### Researcher
+### Connector 🔗
 
-The aim of this role is to propose an imaginary follow-up project – not just based on the current but only possible due to the existence and success of the current paper. You must write the proposal with the following components:
-
-- Motivation/introduction/problem statement: why is the proposed project important? Why is the general task or area important?
-- Background: what do we already know in the field? What has been tried? What have we learned so far?
-- Method and design: what is your proposed approach? How will you set up your experiments ? How will you evaluate success?
-- Significance and conclusion: what would the results tell us, if your project was successful? What doors would that open for other researchers or practitioners?
-- References: make sure to cite papers that you mention.
-
-Write between 400 and 600 words.
-
-### Industry Expert
-
-You must discuss how the method discussed in the paper can apply to one real-world scenario and propose a new application. Put yourself in the shoes of an employee proposing this application to their boss. Establish context (such as the industry you are working in, current solution and resources, etc.) and discuss the use-case, road map, and business advantage of utilizing the method for your application.
-
-1. **Identify the Problem:**
-   - Describe a problem that can be solved using the paper.
-   - Propose a realistic solution based on the paper.
-2. **Establish Context:**
-   - Describe your employer's context, including: industry relevance, current solution, available resources and funding, company data, business goals and objectives.
-   - Make reasonable assumptions if data is unavailable.
-3. **Detail the Steps and Roadmap:**
-   - Outline background work before implementation.
-   - Specify data and resource requirements.
-   - Plan steps for complete solution implementation.
-4. **Discuss the Impact:**
-   - Argue why your solution is a worthwhile investment.
-   - Highlight advantages and superiority over the current solution.
-   - Discuss potential disadvantages, drawbacks, and costs.
-
-Write between 400 and 600 words.
-
-### Social Impact Assessor
-
-The Social Impact Assessor evaluates the potential societal implications of the paper's findings and methodologies. This role involves analyzing how the research might affect various communities, considering both positive and negative consequences. The assessor examines ethical considerations, potential biases, and the broader societal context. By providing a critical perspective on the social ramifications, the assessor ensures that the discussion includes an understanding of the research's impact beyond the technical aspects.
-
-1. **Identify Stakeholders:**
-   - Determine who will be affected by the research outcomes, including communities, industries, and specific demographic groups.
-2. **Analyze Positive and Negative Impacts:**
-   - Evaluate the potential benefits and drawbacks of the research on society, considering aspects such as privacy, equality, and access.
-3. **Examine Ethical Considerations:**
-   - Assess the ethical implications of the research methods and findings, identifying any biases or ethical concerns.
-4. **Provide Recommendations:**
-   - Suggest ways to mitigate negative impacts and enhance positive outcomes, ensuring the research promotes social good and minimizes harm.
-
-Write between 400 and 600 words.
-
----
-
-## Instructions about references in these summaries
-
-For each of the roles above, you are requires to include references or citations:
-- Cite the paper the summary is about in the first sentence of your summary.
-- Make sure to back up claims with evidence and/or references. This is especially relevant for researcher, social impact, archeologist roles, but applies for all roles.
-- Include references at the end of your post (does not count towards word limit), and make sure the formatting is consistent both for in-text citations and the reference list at the end; I suggest including:
-   - For inline citations, you can use (Sap et al. 2017) / Sap et al (2017), or [number] style citations.  
-   - First author et al. (Year) Title (possibly link to paper). For example: [number] Sap et al. 2017. [Connotation Frames of Power and Agency](https://www.aclweb.org/anthology/D17-1247)
-- Do not mention other research without citing it 
-
----
-
-## Examples of summaries for different papers
-
-PENDING
-
+Consider the paper from the perspective of an area of data science outside its primary focus: **Human-Centered Data Science, Analytics, or Systems**. Identify how the paper connects to your assigned area and what someone from that area might notice, question, or approach differently. Explain how ideas or methods from your assigned area could extend, improve, or challenge the work.
