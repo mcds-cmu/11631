@@ -10,6 +10,6 @@
 |        Capstone Report Review         |       2.5        |
 |  Capstone Final Presentation Review   |       2.5        |
 | *Extra credit*: science communication |        1         |
-|  *Extra credit*: red-teaming ChatGPT  |        2         |
+|      *Extra credit*: LLM-review       |        2         |
 | *Extra credit*: end-of-course survey  |        2         |
 |               **TOTAL**               |       105        |
