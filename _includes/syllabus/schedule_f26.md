@@ -1,35 +1,35 @@
 |Week|Date|Type|Topic / activity|Homework|
 |---|---|---|---|---|
-|Week 1|8/26|Lecture|Lecture: Welcome, class overview, AIVs||
-|Week 1|8/28|Lecture|Lecture: How to present & write papers||
-|Week 2|9/2|GL|Overview lecture: Systems-Oriented Data Science (Seth Goldstein)||
-|Week 2|9/4|GL|Attend Yejin Choi guest lecture (4:30-6PM)||
-|Week 3|9/9|GL|Overview lecture: Human-centered Data Science (Adam Perer)||
-|Week 3|9/11|GL|Overview lecture: Analytics (Carolyn Rose )||
-|Week 4|9/16|PP|Practice presentations (zoom)|Fill out paper interest & presentation teammate form|
-|Week 4|9/18|PP|Practice presentations (zoom)||
-|Week 5|9/23|PP|Practice presentations (zoom)||
-|Week 5|9/25|Disc|In-class discussion for one area|Read papers according to role, write summary on Canvas|
-|Week 6|9/30|Pres|In-class presentations||
-|Week 6|10/2|Pres|In-class presentations||
-|Week 7|10/7|Pres|In-class presentations||
-|Week 7|10/9|Disc|In-class discussion for second area|Read papers according to role, write summary on Canvas|
-|Fall break|10/14||--- Fall break ---||
-||10/16||--- Fall break ---||
-|Week 8|10/21|Pres|In-class presentations||
-|Week 8|10/23|Pres|In-class presentations||
-|Week 9|10/28|Pres|In-class presentations|Find teammates for review and surveys|
-|Week 9|10/30|Pres|In-class presentations||
-|Week 10|11/4||--- Democracy Day ---|Write review for paper|
-|Week 10|11/6|Pres|In-class presentations||
-|Week 11|11/11|Pres|In-class presentations||
-|Week 11|11/13|Disc|In-class discussion for third area|Read papers according to role, write summary on Canvas|
-|Week 12|11/18|Pres|In-class presentations||
-|Week 12|11/20|Pres|In-class presentations|Write literature survey draft|
-|Week 13|11/25|Pres|In-class presentations||
-|Week 13|11/27||--- Thanksgiving ---||
-|Week 14|12/2|Lecture|Lecture: Responsible AI||
-|Week 14|12/3|GL|Attend capstone poster sessions (required)||
-|Week 14|12/4||No classes|Write literature survey (building on feedback from previous draft)|
+|Week 1|8/25|Lecture|Lecture: Welcome, class overview, AIVs||
+|Week 1|8/27|Lecture|Lecture: How to present & write papers||
+|Week 2|9/1|GL|DS Systems overview - Seth Goldstein||
+|Week 2|9/3||Attend internship poster session||
+|Week 3|9/8|GL|DS Analytics overview - Kemal Oflazer||
+|Week 3|9/10|GL|DS Human-centered - Dom Moritz||
+|Week 4|9/15|Lecture|Ethics and responsible AI|Fill out paper interest & presentation teammate form|
+|Week 4|9/17|PP|Practice presentations (zoom)||
+|Week 5|9/22|PP|Practice presentations (zoom)||
+|Week 5|9/24|PP|Practice presentations (zoom)||
+|Week 6|9/29|Pres|In-class presentations||
+|Week 6|10/1|Pres|In-class presentations||
+|Week 7|10/6|Pres|In-class presentations||
+|Week 7|10/8|Disc|In-class discussion for one area|Read papers according to role, write summary on Canvas|
+|Fall break|10/13||--- Fall break ---||
+|Fall break|10/15||--- Fall break ---||
+|Week 8|10/20|Disc|In-class discussion for second area|Read papers according to role, write summary on Canvas|
+|Week 8|10/22|Pres|In-class presentations|Find teammates for review and surveys|
+|Week 9|10/27|Pres|In-class presentations||
+|Week 9|10/29|Pres|In-class presentations||
+|Week 10|11/3||--- Democracy Day ---|Write review for paper|
+|Week 10|11/5|Pres|In-class presentations||
+|Week 11|11/10|Pres|In-class presentations||
+|Week 11|11/12|Disc|In-class discussion for third area|Read papers according to role, write summary on Canvas|
+|Week 12|11/17|Pres|In-class presentations||
+|Week 12|11/19|Pres|In-class presentations|Write literature survey draft|
+|Week 13|11/24||No classes||
+|Week 13|11/26||--- Thanksgiving ---||
+|Week 14|12/1||TBD||
+|Week 14|12/2|GL|Attend capstone poster sessions (required)||
+|Week 14|12/3||No classes|Write literature survey (building on feedback from previous draft)|
+|Week 15|12/8||No classes||
 |Week 15|12/9||No classes||
-|Week 15|12/10||No classes||
