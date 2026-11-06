@@ -16,6 +16,7 @@ We do not allow late submissions.
 - For presentations, if you do not upload your slides by 5pm day of, you will lose points. If you are late to class, you will also lose points.
 - For paper discussions, if you are late to class, you will also lose points and will have less time to write your summary.
 - For other assignments (e.g., paper review, literature survey assignments, capstone review, etc.), for every day that you submit late, you will receive a deduction proportional to the lateness (10% per late day; if you're 2 days late, you will lose 20% of your grade). You have a 30-minute grace period before the lateness deduction will be applied (i.e., you can submit up to 30 minutes after the deadline without any penalty, but any minute after will result in 10% deduction).
+- For extra credit assignments, you will receive 50% deduction for any work submitted 1 day late. Anything submitted later will not receive any credit.
 
 ### Issues with presentation schedule
 
